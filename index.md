@@ -1,14 +1,6 @@
-
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>New cyber website coming soon</title>
-    <meta name="robots" content="noindex">
-    <meta name="MSSmartTagsPreventParsing" content="true">
-    <meta http-equiv="expires" content="0">
-    <meta http-equiv="Cache-control" content="no-cache">
-    <style type="text/css">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+<style type="text/css">
 html {
   margin:0; padding:0; border:0;
 	position:relative;
@@ -67,22 +59,19 @@ footer {
 }
 footer a { color:#555577; }
 footer a:hover { color:#222277; }
+</style>
 
-    </style>
-  </head>
 
-  <body>
-    <header>
-      Hier entsteht eine<br>neue Cyber-Website
-    </header>
-    <main>
-      <h1>Es wurden noch keine Inhalte hochgeladen.</h1>
-      
-      <p>Wenn Sie der Betreiber dieser Website sind: laden Sie einfach eine Startseite (z.B. <code>index.html</code> oder <code>index.php</code>) auf Ihren Cyber-Space, dann wird diese Meldung nicht mehr angezeigt.</p>
+<header>
+  Hier entsteht eine<br>neue Cyber-Website
+</header>
+<main>
+  <h1>Es wurden noch keine Inhalte hochgeladen.</h1>
+  
+  <p>Wenn Sie der Betreiber dieser Website sind: laden Sie einfach eine Startseite (z.B. <code>index.html</code> oder <code>index.php</code>) auf Ihren Cyber-Space, dann wird diese Meldung nicht mehr angezeigt.</p>
 
-    </main>
-    <footer>
-      Get connected via <a href="https://twitter.com/cyberjug">Twitter</a>!
-    </footer>
-  </body>
-</html>
+</main>
+<footer>
+  Get connected via <a href="https://twitter.com/cyberjug">Twitter</a>!
+</footer>
+
