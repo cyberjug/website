@@ -32,7 +32,7 @@ header {
 }
 
 main {
-  padding:0 2%;
+  padding:0 30%;
 }
 
 h1 {
@@ -49,7 +49,7 @@ footer {
   width:100%;
   background:#AAAAAA;
   color:#666666;
-  text-align:right;
+  text-align:left;
   padding:4px 12px;
   font-size:0.8em;
 }
