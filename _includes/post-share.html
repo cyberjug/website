@@ -1,0 +1,10 @@
+{% if site.postshare_enabled %}
+<aside class="share">
+  <p>
+    Diesen Beitrag auf
+      <a href="http://twitter.com/share?text={{page.title}}&amp;url={{ page.url | prepend: site.baseurl | prepend: site.url }}&amp;via={{ site.twitter_username }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+        Twitter
+      </a>
+       teilen.</p>
+</aside>
+{% endif %}
