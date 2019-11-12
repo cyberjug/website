@@ -25,3 +25,6 @@ Das beschriebene Vorgehen ist integraler Bestandteil der Architektur von Spring 
 
 *Jens Schauder hat vor unglaublich langer Zeit auf einem in Assembler programmierbaren Tischrechner angefangen zu programmieren. Nach fast 20 Jahren als Consultant für meist große Konzerne, hat er es 2017 geschafft sich beim Spring Data Team ein zu schleichen. Dort arbeitet er meist an den Modulen Commons, JPA und JDBC, erzählt davon auf Konferenzen oder hilft anderen Entwicklern auf Stackoverflow.*
 
+<br>
+
+<code>&gt;&gt; Link zum Video-Online-Stream wird hier bald veröffentlicht! &lt;&lt;</code>
