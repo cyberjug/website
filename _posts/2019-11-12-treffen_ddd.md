@@ -8,6 +8,10 @@ keywords: "DDDesign"
 
 **Wir freuen uns auf den ersten Talk beim CyberJUG-Meetup von Jens Schauder!**
 
+Termin: 25.11.2019 um 20:15 Uhr
+
+<br/>
+
 Domain Driven Design (DDD) führt die Konzepte Aggregate, Aggregate-Root und Repository ein.
 Wenn man diese Konzepte ernst nimmt, stellt man fest, dass viele Dinge, die man sich im Kampf in der Arbeit mit JPA angewöhnt hat, nicht wirklich akzeptabel sind.
 Mehr noch, es werden sogar ganze Features von JPA überflüssig oder zumindest wesentlich weniger wichtig.

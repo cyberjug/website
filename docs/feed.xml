@@ -5,13 +5,17 @@
     <description>Die virtuelle Java User Group</description>
     <link>https://cyberjug.de/</link>
     <atom:link href="https://cyberjug.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Nov 2019 20:39:06 +0100</pubDate>
-    <lastBuildDate>Tue, 12 Nov 2019 20:39:06 +0100</lastBuildDate>
+    <pubDate>Tue, 12 Nov 2019 21:10:15 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2019 21:10:15 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Domain Driven Design mit Relationalen Datenbanken (Jens Schauder)</title>
         <description>&lt;p&gt;&lt;strong&gt;Wir freuen uns auf den ersten Talk beim CyberJUG-Meetup von Jens Schauder!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Termin: 25.11.2019 um 20:15 Uhr&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Domain Driven Design (DDD) führt die Konzepte Aggregate, Aggregate-Root und Repository ein.
 Wenn man diese Konzepte ernst nimmt, stellt man fest, dass viele Dinge, die man sich im Kampf in der Arbeit mit JPA angewöhnt hat, nicht wirklich akzeptabel sind.
