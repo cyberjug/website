@@ -4,7 +4,7 @@ title: Über uns
 permalink: /ueber_uns/
 ---
 
-Willkommen bei der CyberJUG &ndash; eine virtuelle Java User Group im deutschsprachigem Raum.
+Willkommen bei der CyberJUG &ndash; einer virtuellen Java User Group im deutschsprachigem Raum.
 
 Wir wollen uns über Java & Co. nicht nur bei lokalen Treffen austauschen.
 
