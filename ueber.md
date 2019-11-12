@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Über uns
-permalink: /ueber_uns/
+title: Über
+permalink: /ueber/
 ---
 
 Willkommen bei der CyberJUG &ndash; einer virtuellen Java User Group im deutschsprachigem Raum.
