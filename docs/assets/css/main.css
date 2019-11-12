@@ -62,7 +62,7 @@ table {
   cursor: pointer;
   display: inline-block;
   font-family: "Overpass Mono", monospace;
-  font-size: 1.5em;
+  font-size: 1.1em;
   -webkit-font-smoothing: antialiased;
   font-weight: 600;
   line-height: 1;
@@ -97,7 +97,7 @@ label,
 select {
   display: block;
   font-family: "Overpass Mono", monospace;
-  font-size: 1.5em;
+  font-size: 1.1em;
 }
 
 label {
@@ -119,7 +119,7 @@ select[multiple=multiple] {
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06);
   box-sizing: border-box;
   font-family: "Overpass Mono", monospace;
-  font-size: 1.5em;
+  font-size: 1.1em;
   margin-bottom: 0.75em;
   padding: 0.5em;
   transition: border-color 150ms ease;
@@ -220,7 +220,7 @@ th {
 body {
   color: rgba(255, 191, 0, 0.8);
   font-family: "Overpass Mono", monospace;
-  font-size: 1.5em;
+  font-size: 1.1em;
   line-height: 1.5;
 }
 
@@ -231,7 +231,7 @@ h4,
 h5,
 h6 {
   font-family: "Overpass Mono", monospace;
-  font-size: 1.5em;
+  font-size: 1.1em;
   line-height: 1.2;
   margin: 0.75em 0 0.75em 0;
   font-weight: 700;
