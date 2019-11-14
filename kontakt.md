@@ -4,6 +4,14 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
+## Neuigkeiten
+
+Neuigkeiten gibt es hier auf der Homepage sowie auf
+
+Twitter: [https://twitter.com/cyberjug](https://twitter.com/cyberjug)  
+Slack: [https://slackin-jvm-german.herokuapp.com](https://slackin-jvm-german.herokuapp.com), Channel #cyberjug
+
+
 ## Impressum
 
 Anschrift: CyberJUG, Markus Harrer, Edisonweg 21, 91154 Roth  
