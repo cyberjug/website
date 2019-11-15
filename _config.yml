@@ -5,7 +5,7 @@ description   : "Die virtuelle Java User Group"
 keywords      : "CyberJUG, Java User Group, virtuell, cyber, java"
 url           : "https://cyberjug.de" # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+cover         : "favicon.png" # image uri like logo/cover image for site seo
 
 # google_analytics  : UA-XXXXX-XX
 twitter_username  : "cyberjug"
@@ -37,9 +37,9 @@ plugins:
 
 # navbar pages
 navbar:
-  - slug : ueber_uns
-    title: Über uns
-  - slug : termine
-    title: Termine
+  - slug : ueber
+    title: Über
+  - slug : kontakt
+    title: Kontakt
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script", "vendor", cyberjug.gemspec]
