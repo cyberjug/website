@@ -21,7 +21,7 @@ Er fand die Idee einer virtuellen JUG aber schon vorher super, da er als Berater
 Er hat aber Lust auf den Austausch und hat daher den Versuch gestartet, eine virtuelle Java User Group ins Leben zu rufen.
 
 
-#### Und wer noch?`
+#### Und wer noch?
 
 Derzeit gibt es noch keine weiteren offiziellen MitstreiterInnen, aber bereits einige nette OrganisatorInnen, die Markus unterstützen:
 
@@ -30,4 +30,4 @@ Derzeit gibt es noch keine weiteren offiziellen MitstreiterInnen, aber bereits e
 * Gerrit Meier: Technik-Organisator und Sparing-Partner bei den ersten Website-Ideen
 * Ralf D. Müller: Unterstützer der ersten Stunde der Website inkl. hilfreicher Erweiterungen der Platzhalter-Website
 
-Es wir auf jeden Fall ein Orga-Team geben, um die CyberJUG zu einer richtigen Community-Aktion werden zu lassen!
+Es wird auf jeden Fall ein Orga-Team geben, um die CyberJUG zu einer richtigen Community-Aktion werden zu lassen!
