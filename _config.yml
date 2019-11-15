@@ -5,7 +5,7 @@ description   : "Die virtuelle Java User Group"
 keywords      : "CyberJUG, Java User Group, virtuell, cyber, java"
 url           : "https://cyberjug.de" # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "favicon.png" # image uri like logo/cover image for site seo
+cover         : "/favicon.png" # image uri like logo/cover image for site seo
 
 # google_analytics  : UA-XXXXX-XX
 twitter_username  : "cyberjug"
