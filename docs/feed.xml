@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title></title>
+      <title>Cyber JUG</title>
       <description>Die virtuelle Java User Group</description>
       <link>https://cyberjug.de/</link>
     <atom:link href="https://cyberjug.de/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Thu, 21 Nov 2019 11:27:44 +0100</pubDate>
-      <lastBuildDate>Thu, 21 Nov 2019 11:27:44 +0100</lastBuildDate>
+      <pubDate>Thu, 21 Nov 2019 12:10:00 +0100</pubDate>
+      <lastBuildDate>Thu, 21 Nov 2019 12:10:00 +0100</lastBuildDate>
       <generator>Jekyll v3.8.6</generator>
       <item>
         <title>Domain Driven Design mit Relationalen Datenbanken (Jens Schauder)</title>
