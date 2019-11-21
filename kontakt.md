@@ -4,12 +4,11 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-## Neuigkeiten
+## Kontaktmöglichkeiten
 
-Neuigkeiten gibt es hier auf der Homepage sowie auf
-
-Twitter: [https://twitter.com/cyberjug](https://twitter.com/cyberjug)  
-Slack: [https://slackin-jvm-german.herokuapp.com](https://slackin-jvm-german.herokuapp.com), Channel #cyberjug
+* Neuigkeiten gibt es hier auf der Homepage sowie auf Twitter: [https://twitter.com/cyberjug](https://twitter.com/cyberjug)  
+* Diskussionen rund um das Meetup finden in Slack statt: [https://slackin-jvm-german.herokuapp.com](https://slackin-jvm-german.herokuapp.com), Channel #cyberjug
+* Änderungsvorschläge für die Website gerne über GitHub: [https://github.com/cyberjug/website](https://github.com/cyberjug/website)
 
 
 ## Impressum
