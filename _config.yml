@@ -34,6 +34,12 @@ plugins:
   - jekyll-sitemap
   - bourbon
   - jekyll-paginate
+  - jekyll-tidy
+  
+# set up HTML beautifier
+jekyll_tidy:
+  exclude: ["index.html"]
+  compress_html: false
 
 # navbar pages
 navbar:
