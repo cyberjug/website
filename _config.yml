@@ -1,8 +1,8 @@
-# Site settings
+# Site settings 
 title_left    : "Cyber"
 title_right   : "JUG" # default: ""
-description   : "Die virtuelle Java User Group"
-keywords      : "CyberJUG, Java User Group, virtuell, cyber, java"
+description   : "Eine Online Java User Group"
+keywords      : "CyberJUG, Java User Group, digital, cyber, java"
 url           : "https://cyberjug.de" # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/logo_16-9.png" # image uri like logo/cover image for site seo
@@ -38,7 +38,6 @@ plugins:
   
 # set up HTML beautifier
 jekyll_tidy:
-  exclude: ["index.html"]
   compress_html: false
 
 # navbar pages

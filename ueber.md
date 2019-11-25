@@ -4,21 +4,21 @@ title: Über
 permalink: /ueber/
 ---
 
-Willkommen bei der CyberJUG &ndash; einer virtuellen Java User Group im deutschsprachigem Raum.
+Willkommen bei der CyberJUG &ndash; einer virtuellen Online Java User Group im deutschsprachigem Cyberspace.
 
 Wir wollen uns über Java & Co. nicht nur bei lokalen Treffen austauschen.
 
 Vielmehr möchten wir mit diesem Online-Meetup auch Menschen erreichen, die es nicht zu den JUGs schaffen.
 
-Daher organisieren wir hier zur familienfreundlichen Uhrzeit jeweils 1-2 mal im Monat ein virtuelles Treffen.
+Daher organisieren wir hier zur familienfreundlichen Uhrzeit jeweils 1-2 mal im Monat ein Online-Treffen.
 
 ## Wer sind wir?
 
 #### Markus Harrer
 
 Markus hat aus Versehen die CyberJUG gegründet.
-Er fand die Idee einer virtuellen JUG aber schon vorher super, da er als Berater und Familienvater immer weniger Zeit hat, zu jedem JUG-Treffen zu gehen.
-Er hat aber Lust auf den Austausch und hat daher den Versuch gestartet, eine virtuelle Java User Group ins Leben zu rufen.
+Er fand die Idee einer virtuellen JUG aber schon vorher super (wie etwa der [Virtual JUG](https://virtualjug.com/)), da er als reisender Berater und Familienvater immer weniger Zeit hat zu jedem JUG-Treffen zu gehen.
+Er hat aber Lust auf den Austausch und hat daher den Versuch gestartet, eine deutschsprachige, virtuelle Java User Group ins Leben zu rufen.
 
 
 #### Und wer noch?
