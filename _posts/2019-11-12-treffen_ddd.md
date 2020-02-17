@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Domain Driven Design mit Relationalen Datenbanken (Jens Schauder)"
+title: "25.11.2019: Domain Driven Design mit Relationalen Datenbanken (Jens Schauder)"
 comments: false
 description: "1. Treffen am 25.11.2019 um 20:15 Uhr"
 keywords: "DDDesign"

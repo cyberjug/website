@@ -5,68 +5,92 @@
       <description>Eine Online Java User Group</description>
       <link>https://cyberjug.de/</link>
     <atom:link href="https://cyberjug.de/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 03 Dec 2019 09:29:17 +0100</pubDate>
-      <lastBuildDate>Tue, 03 Dec 2019 09:29:17 +0100</lastBuildDate>
+      <pubDate>Mon, 17 Feb 2020 09:34:49 +0100</pubDate>
+      <lastBuildDate>Mon, 17 Feb 2020 09:34:49 +0100</lastBuildDate>
       <generator>Jekyll v3.8.6</generator>
       <item>
-        <title>Video 'Domain Driven Design mit Relationalen Datenbanken' online</title>
-        <description>&lt;p&gt;Das Video zum ersten CyberJUG-Vortrag ‘Domain Driven Design mit Relationalen Datenbanken’ von Jens Schauder ist nun online verfügbar!&lt;/p&gt;
-          &lt;p&gt;
-          &lt;div align=&quot;center&quot;&gt;
-          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LWnazFQOlCU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-          &lt;/div&gt;
-          &lt;/p&gt;
-          &lt;p&gt;Noch einmal vielen Dank an Jens und auch an eure zahlreiche Teilnahme!&lt;/p&gt;
-          &lt;p&gt;&lt;small&gt;Danke auch an &lt;a href=&quot;https://neo4j.com&quot;&gt;Neo4j&lt;/a&gt; für die Bereitstellung der Online-Vortragsplattform!&lt;/small&gt;&lt;/p&gt;
+        <title>02.03.2020: Das Nächste Jahrhundert(Jahrzehnt) - JUnit Jupiter (aka JUnit 5) (Karl-Heinz Marbaise)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Wir freuen uns auf den zweiten Talk beim CyberJUG-Meetup von Karl-Heinz Marbaise!&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;b&gt;Termin: 02.03.2020 um 20:15 Uhr&lt;/b&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+          &lt;p&gt;Im Java Universum sind einige wenige Testframeworks verbreitet. Dazu
+          zählt z. B. das JUnit Framework oder TestNG. Die entsprechenden
+          Testframeworks erleichtern die Implementierung von Unit- und/oder
+          Integrationstests.&lt;/p&gt;
+          &lt;p&gt;Im Dezember 2000 wurde der erste Commit für JUnit 3 gemacht. Im Februar
+          2006 erblickte JUnit 4.0 die Welt. Im Februar 2016 erblickte schließlich
+          die Alpha Release von JUnit Jupiter das Universum.&lt;/p&gt;
+          &lt;p&gt;Ich möchte im Rahmen des Vortrages zeigen, welche Änderungen sich aus
+          der Nutzung von JUnit Jupiter im Vergleich zu anderen
+          Frameworks/Versionen ergeben. Dazu zählen beispielsweise die
+          Unterschiede in den Annotationen sowie deren Auswirkungen, Verwendung
+          von Testklassen und die Unterstützung für das Testen von Interfaces.&lt;/p&gt;
+          &lt;p&gt;Zudem gehe ich auf die Migration von JUnit3/4/TestNG Tests auf JUnit Jupiter ein.&lt;/p&gt;
+          &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+          &lt;p&gt;*Über Karl-Heinz Marbaise *&lt;/p&gt;
+          &lt;p&gt;&lt;em&gt;Karl-Heinz ist Softwareentwickler, Build- und Konfigurationsmanager im Bereich Java, JEE sowie Trainer (Maven, Git, Jenkins, Subversion, Nexus), Apache Maven PMC Mitglied und MojoHaus Committer&lt;/em&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+          &lt;p&gt;Wir planen, dieses Mal &lt;a href=&quot;https://jitsi.org/&quot;&gt;Jitsi&lt;/a&gt; zu verwenden. Wir werden die entsprechenden Details kurz vor dem Vortrag bekanntgeben!&lt;/p&gt;
         </description>
-        <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
-        <link>https://cyberjug.de/2019/12/03/video_ddd/</link>
-      <guid isPermaLink="true">https://cyberjug.de/2019/12/03/video_ddd/</guid>
+        <pubDate>Mon, 17 Feb 2020 00:00:00 +0100</pubDate>
+        <link>https://cyberjug.de/2020/02/17/jupiter/</link>
+      <guid isPermaLink="true">https://cyberjug.de/2020/02/17/jupiter/</guid>
     </item>
     <item>
-      <title>Domain Driven Design mit Relationalen Datenbanken (Jens Schauder)</title>
-      <description>&lt;p&gt;&lt;strong&gt;Wir freuen uns auf den ersten Talk beim CyberJUG-Meetup von Jens Schauder!&lt;/strong&gt;&lt;/p&gt;
-        &lt;p&gt;Termin: 25.11.2019 um 20:15 Uhr&lt;/p&gt;
-        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-        &lt;p&gt;Domain Driven Design (DDD) führt die Konzepte Aggregate, Aggregate-Root und Repository ein.
-        Wenn man diese Konzepte ernst nimmt, stellt man fest, dass viele Dinge, die man sich im Kampf in der Arbeit mit JPA angewöhnt hat, nicht wirklich akzeptabel sind.
-        Mehr noch, es werden sogar ganze Features von JPA überflüssig oder zumindest wesentlich weniger wichtig.&lt;/p&gt;
-        &lt;p&gt;In diesem Vortrag stelle ich vor, welche Auswirkungen DDD auf ein Objekt-Modell hat, und wie dies massiv die Komplexität reduziert.
-        Wir werden sehen, wie es Integrationstests vereinfacht und ganze Kategorien von Fehlern vermeidet, die aktuell in sehr vielen Datenbankanwendungen vorhanden sind.&lt;/p&gt;
-        &lt;p&gt;Diese Designentscheidungen eröffnen schließlich auch noch die Möglichkeit über die Vor- und Nachteile von Foreign-Keys nachzudenken, um diese gezielter und bewusster einsetzen zu können.&lt;/p&gt;
-        &lt;p&gt;Das beschriebene Vorgehen ist integraler Bestandteil der Architektur von Spring Data JDBC und in den letzten ca. 10 Minuten werden wir dies nutzen, um uns das Ganze in der Praxis anzuschauen.&lt;/p&gt;
-        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;em&gt;Über Jens Schauder&lt;/em&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;em&gt;Jens Schauder hat vor unglaublich langer Zeit auf einem in Assembler programmierbaren Tischrechner angefangen zu programmieren. Nach fast 20 Jahren als Consultant für meist große Konzerne, hat er es 2017 geschafft sich beim Spring Data Team ein zu schleichen. Dort arbeitet er meist an den Modulen Commons, JPA und JDBC, erzählt davon auf Konferenzen oder hilft anderen Entwicklern auf Stackoverflow.&lt;/em&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-        &lt;h3 id=&quot;anmeldung&quot;&gt;Anmeldung&lt;/h3&gt;
-        &lt;p&gt;Wir verwenden die Online-Videoplattform “BigMarker”. Hierfür ist eine Registrierung notwendig, um euch über das Webinar sowie über die spätere Aufnahme informieren zu können. An dieser Stelle auch vielen Dank an unseren Unterstützer &lt;a href=&quot;https://neo4j.com/&quot;&gt;Neo4j&lt;/a&gt;! Der Graphdatenbankhersteller stellt uns die Online-Vidoeplattform BigMarker kostenfrei zur Verfügung!&lt;/p&gt;
-        &lt;div id=&quot;bigmarker-conference-widget-container66912d5a609d&quot;&gt;&lt;/div&gt;
-        &lt;script src=&quot;https://www.bigmarker.com/widget/register_widget.js?club=neo4j&amp;amp;conference=66912d5a609d&amp;amp;widget_type=image_register&amp;amp;series_register=&amp;amp;upcoming_sub_title=N%C3%A4chster%20Vortrag&amp;amp;live_sub_title=Der%20Vortrag%20l%C3%A4uft%20gerade&amp;amp;rec_sub_title=Schau%20den%20Vortrag%20an&amp;amp;upcoming_button_text=Anmelden&amp;amp;live_button_text=Anmelden%20%26%20zuschauen&amp;amp;rec_button_text=Zur%20Aufnahme&amp;amp;link_to_channel=false&amp;amp;background_color=000&amp;amp;btext_color=ffffff&amp;amp;link_color=FFBF00&amp;amp;ltext_color=ffffff&amp;amp;cid=08ef4185cc3f&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
-        &lt;p&gt;Bis dann!&lt;/p&gt;
+      <title>Video 'Domain Driven Design mit Relationalen Datenbanken' online</title>
+      <description>&lt;p&gt;Das Video zum ersten CyberJUG-Vortrag ‘Domain Driven Design mit Relationalen Datenbanken’ von Jens Schauder ist nun online verfügbar!&lt;/p&gt;
+        &lt;p&gt;
+        &lt;div align=&quot;center&quot;&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LWnazFQOlCU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+        &lt;/p&gt;
+        &lt;p&gt;Noch einmal vielen Dank an Jens und auch an eure zahlreiche Teilnahme!&lt;/p&gt;
+        &lt;p&gt;&lt;small&gt;Danke auch an &lt;a href=&quot;https://neo4j.com&quot;&gt;Neo4j&lt;/a&gt; für die Bereitstellung der Online-Vortragsplattform!&lt;/small&gt;&lt;/p&gt;
       </description>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0100</pubDate>
-      <link>https://cyberjug.de/2019/11/12/treffen_ddd/</link>
-    <guid isPermaLink="true">https://cyberjug.de/2019/11/12/treffen_ddd/</guid>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
+      <link>https://cyberjug.de/2019/12/03/video_ddd/</link>
+    <guid isPermaLink="true">https://cyberjug.de/2019/12/03/video_ddd/</guid>
   </item>
   <item>
-    <title>Java Virtual Meetup Init</title>
-    <description>&lt;h3 id=&quot;cheers&quot;&gt;Cheers!&lt;/h3&gt;
-      &lt;p&gt;Die CyberJUG wurde gegründet.
-      Ganz virtuell und Community-getrieben geht sie einfach so an den Start.
-      Wir organisieren alle 1-2x im Monat Vorträge über Java &amp;amp; Co.!
-      Die Idee ist, dass wir es noch mehr Menschen ermöglichen wollen, an der Java-Welt teilzunehmen.
-      Daher werden unsere Meetups auch zur familienfreundlichen Zeitum um 20:15 Uhr stattfinden.
-      Die meisten Talks werden wir auf deutsch präsentieren, um keine künstlichen Barrieren zu schaffen.
-      Wir suchen neben Java-Themen auch “softe” Themen, die wir mit den Technik-Vorträgen abwechseln wollen.&lt;/p&gt;
-      &lt;p&gt;Die Talks organisieren wir über direkte Ansprache von Vortragenden oder über Deine Eigeninitative.
-      Schreibe uns hierzu einfach eine Mail an cyberjug@markusharrer.de oder schicke uns ein Fax an die 09171/8573176!&lt;/p&gt;
-      &lt;p&gt;Über unseren RSS-Feed und auf Twitter könnt ihr auch über unsere neue Treffen informieren lassen.&lt;/p&gt;
-      &lt;p&gt;Bis demnächst!&lt;/p&gt;
+    <title>25.11.2019: Domain Driven Design mit Relationalen Datenbanken (Jens Schauder)</title>
+    <description>&lt;p&gt;&lt;strong&gt;Wir freuen uns auf den ersten Talk beim CyberJUG-Meetup von Jens Schauder!&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;Termin: 25.11.2019 um 20:15 Uhr&lt;/p&gt;
+      &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+      &lt;p&gt;Domain Driven Design (DDD) führt die Konzepte Aggregate, Aggregate-Root und Repository ein.
+      Wenn man diese Konzepte ernst nimmt, stellt man fest, dass viele Dinge, die man sich im Kampf in der Arbeit mit JPA angewöhnt hat, nicht wirklich akzeptabel sind.
+      Mehr noch, es werden sogar ganze Features von JPA überflüssig oder zumindest wesentlich weniger wichtig.&lt;/p&gt;
+      &lt;p&gt;In diesem Vortrag stelle ich vor, welche Auswirkungen DDD auf ein Objekt-Modell hat, und wie dies massiv die Komplexität reduziert.
+      Wir werden sehen, wie es Integrationstests vereinfacht und ganze Kategorien von Fehlern vermeidet, die aktuell in sehr vielen Datenbankanwendungen vorhanden sind.&lt;/p&gt;
+      &lt;p&gt;Diese Designentscheidungen eröffnen schließlich auch noch die Möglichkeit über die Vor- und Nachteile von Foreign-Keys nachzudenken, um diese gezielter und bewusster einsetzen zu können.&lt;/p&gt;
+      &lt;p&gt;Das beschriebene Vorgehen ist integraler Bestandteil der Architektur von Spring Data JDBC und in den letzten ca. 10 Minuten werden wir dies nutzen, um uns das Ganze in der Praxis anzuschauen.&lt;/p&gt;
+      &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;em&gt;Über Jens Schauder&lt;/em&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;em&gt;Jens Schauder hat vor unglaublich langer Zeit auf einem in Assembler programmierbaren Tischrechner angefangen zu programmieren. Nach fast 20 Jahren als Consultant für meist große Konzerne, hat er es 2017 geschafft sich beim Spring Data Team ein zu schleichen. Dort arbeitet er meist an den Modulen Commons, JPA und JDBC, erzählt davon auf Konferenzen oder hilft anderen Entwicklern auf Stackoverflow.&lt;/em&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+      &lt;p&gt;Bis dann!&lt;/p&gt;
     </description>
-    <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
-    <link>https://cyberjug.de/2019/11/11/jvminit/</link>
-  <guid isPermaLink="true">https://cyberjug.de/2019/11/11/jvminit/</guid>
+    <pubDate>Tue, 12 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://cyberjug.de/2019/11/12/treffen_ddd/</link>
+  <guid isPermaLink="true">https://cyberjug.de/2019/11/12/treffen_ddd/</guid>
+</item>
+<item>
+  <title>Java Virtual Meetup Init</title>
+  <description>&lt;h3 id=&quot;cheers&quot;&gt;Cheers!&lt;/h3&gt;
+    &lt;p&gt;Die CyberJUG wurde gegründet.
+    Ganz virtuell und Community-getrieben geht sie einfach so an den Start.
+    Wir organisieren alle 1-2x im Monat Vorträge über Java &amp;amp; Co.!
+    Die Idee ist, dass wir es noch mehr Menschen ermöglichen wollen, an der Java-Welt teilzunehmen.
+    Daher werden unsere Meetups auch zur familienfreundlichen Zeitum um 20:15 Uhr stattfinden.
+    Die meisten Talks werden wir auf deutsch präsentieren, um keine künstlichen Barrieren zu schaffen.
+    Wir suchen neben Java-Themen auch “softe” Themen, die wir mit den Technik-Vorträgen abwechseln wollen.&lt;/p&gt;
+    &lt;p&gt;Die Talks organisieren wir über direkte Ansprache von Vortragenden oder über Deine Eigeninitative.
+    Schreibe uns hierzu einfach eine Mail an cyberjug@markusharrer.de oder schicke uns ein Fax an die 09171/8573176!&lt;/p&gt;
+    &lt;p&gt;Über unseren RSS-Feed und auf Twitter könnt ihr auch über unsere neue Treffen informieren lassen.&lt;/p&gt;
+    &lt;p&gt;Bis demnächst!&lt;/p&gt;
+  </description>
+  <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+  <link>https://cyberjug.de/2019/11/11/jvminit/</link>
+<guid isPermaLink="true">https://cyberjug.de/2019/11/11/jvminit/</guid>
 </item>
 </channel>
 </rss>
