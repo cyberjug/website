@@ -1,0 +1,23 @@
+---
+layout: default
+title: Aktuelles
+---
+
+<section class="post-list">
+
+  <div class="container">
+    <h2>Aktuelles</h2>
+    {% assign dates = site.news | sort: 'date' %}
+    {% assign sorted = dates | reverse %}
+    {% for post in sorted %}
+    
+    <article class="post-item">
+      <span class="post-meta">Neues vom {{ post.date | date: "%d.%m.%Y" }}</span>
+      {{ post.time}}
+      <div class="article-title"><a class="post-link"
+          href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
+    </article>
+    {% endfor %}
+  </div>
+
+</section>
