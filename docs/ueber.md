@@ -6,10 +6,14 @@ permalink: /ueber/
 
 Willkommen bei der CyberJUG &ndash; einer virtuellen Online Java User Group im deutschsprachigem Cyberspace.
 
+<p>
+    <div align="center">
+        <img src="/assets/images/logo_16-9.gif" />
+    </div>
+</p>
+
 Wir wollen uns über Java & Co. nicht nur bei lokalen Treffen austauschen.
-
 Vielmehr möchten wir mit diesem Online-Meetup auch Menschen erreichen, die es nicht zu den JUGs schaffen.
-
 Daher organisieren wir hier zur familienfreundlichen Uhrzeit möglichst regelmäßig diese Online-Treffen.
 
 ## Wer sind wir?
