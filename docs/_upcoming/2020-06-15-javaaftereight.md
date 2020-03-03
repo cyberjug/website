@@ -4,7 +4,7 @@ title: "Java After Eight (Nicolai Parlog)"
 date: 15-06-2020 20:15
 description: "Treffen am 15.06.2020 um 20:15 Uhr"
 keywords: "java"
-published: true
+published: false
 ---
 
 <b>Termin: {{ post.date | date: "%d.%m.%Y %H:%M" }}</b>

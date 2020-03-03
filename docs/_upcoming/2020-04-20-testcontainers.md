@@ -4,7 +4,7 @@ title: "Integration-Testing mit Docker und Testcontainers (Kevin Wittek)"
 date: 20-04-2020 20:15
 description: "Treffen am 20.04.2020 um 20:15 Uhr"
 keywords: "testcontainers"
-published: true
+published: false
 ---
 
 <b>{{ page.description }}</b>
