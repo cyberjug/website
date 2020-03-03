@@ -22,7 +22,7 @@ In diesem Vortrag nehmen wir eine einfache Java-8-Codebasis, aktualisieren sie a
 
 *Über Nicolai Parlog*
 
-*Nicolai ist ein dreißigjähriger Junge, der seine Leidenschaft in der Software-Entwicklung (meist Java) gefunden hat und der sowohl für seinen Lebensunterhalt als auch zum Spaß programmiert. Er bloggt auch, schreibt, newslettert, spricht, chattet, zeichnet auf, streamt, trainiert und berät darüber und organisiert eine Konferenz &ndash; nicht alles gleichzeitig, aber in produktiven Bahnen und beginnt mit hohem Durchsatz und langen Latenzen. Wenn Du das Steuer übernehmen willst, stelle ihn für interne Schulungen zu neuen Java-Funktionen, Migrationen zu Java 9+ und JUnit 5 ein. Sein Zuhause ist codefx.org.*
+*Nicolai ist ein dreißigjähriger Junge, der seine Leidenschaft in der Software-Entwicklung (meist Java) gefunden hat und der sowohl für seinen Lebensunterhalt als auch zum Spaß programmiert. Er bloggt auch, schreibt, newslettert, spricht, chattet, zeichnet auf, streamt, trainiert und berät darüber und organisiert eine Konferenz &ndash; nicht alles gleichzeitig, aber in produktiven Bahnen und beginnt mit hohem Durchsatz und langen Latenzen. Wenn Du das Steuer übernehmen willst, stelle ihn für interne Schulungen zu neuen Java-Funktionen, Migrationen zu Java 9+ und JUnit 5 ein. Sein Zuhause ist [codefx.org](https://codefx.org/).*
 
 <br>
 
