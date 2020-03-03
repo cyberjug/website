@@ -7,7 +7,7 @@ permalink: /mitmachen/
 ## Dein Vortrag bei der CyberJUG!
 
 Gerne kannst auch Du einen Vortrag bei uns einreichen!
-Sende dazu bitte Titel, Kurzbeschreibung und ein paar Infos über Dich an <a href="mailto:cyberjug@markusharrer.de">Markus Harrer</a> oder schicke uns ein Fax an die 09171/8573176.
+Sende dazu bitte Titel, Kurzbeschreibung und ein paar Infos über Dich an <a href="mailto:markus@cyberjug.de">Markus</a> oder schicke uns ein Fax an die 09171/8573176.
 
 Wenn Du noch unsicher bist, welches Thema passen würde, kannst Du auch gerne Feedback im [jvg-german-Slack-Channel](https://slackin-jvm-german.herokuapp.com) `#cyberjug` einholen.
 
