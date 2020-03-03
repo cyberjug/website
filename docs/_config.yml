@@ -25,7 +25,7 @@ collections:
 
 # google_analytics  : UA-XXXXX-XX
 twitter_username  : "cyberjug"
-postshare_enabled : true
+postshare_enabled : false
 
 # Build settings
 markdown    : kramdown
@@ -38,7 +38,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Die Orga der CyberJUG"
+  name     : "CyberJUG"
 
 plugins:
   - jekyll-sitemap
