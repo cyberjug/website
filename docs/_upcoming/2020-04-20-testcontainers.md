@@ -4,21 +4,25 @@ title: "Integration-Testing mit Docker und Testcontainers (Kevin Wittek)"
 date: 20-04-2020 20:15
 description: "Treffen am 20.04.2020 um 20:15 Uhr"
 keywords: "testcontainers"
-published: false
 ---
 
 <b>{{ page.description }}</b>
 
 <br/>
 
-Unit-Tests sind in Ordnung, aber ohne ordnungsgemäße Integrationstests, insbesondere wenn sie mit externen Ressourcen wie Datenbanken und anderen Diensten arbeiten, wissen wir möglicherweise nicht, wie sich die Anwendung nach der Deployment in der realen Produktionsumgebung tatsächlich verhalten wird.
-Vor Docker war die Konfiguration der Umgebung für Integrationstests schmerzhaft - die Leute verwendeten Fake-Datenbankimplementierungen und mockten Server. In der Regel war es nicht auch plattformübergreifend.
-Dank Docker können wir die Umgebung jetzt jedoch schnell für unsere Tests vorbereiten.
+Integration-Tests sind für viele ein notwendiges Übel.
+Manuelle Installation und Konfiguration der lokalen Testumgebung oder eine Testinfrastruktur, die sich mehrere Entwickler und Teams teilen müssen sorgen dafür, dass viele Entwickler versuchen auf aufwändige Integration-Tests zu verzichten.
+Dabei können uns Integration-Tests allerdings ein Vertrauen in unseren Code und die Integration mit externen System liefern, der weit über die Möglichkeiten von Unit-Tests hinausgeht.
 
-In diesem Vortrag möchte ich zeigen, wie auch Du [Testcontainer](https://github.com/testcontainers/testcontainers-java) verwenden kannst.
-Testcontainer ist eine beliebte Java-Testbibliothek, die Docker nutzt, um Testabhängigkeiten einfach und zuverlässig zu bereitzustellen. 
-Wir werden Testcontainer mit einem Spring Boot Microservice verwenden und gegen echte PostgreSQL- und MongoDB-Data-Stores testen.
-Wir werden unseren Service von anderen Microservices isolieren, dann Selenium-Browser in Docker starten und unsere Anwendung testen &ndash; und das alles mit derselben Bibliothek! 
+Container-Technologien wie Docker ermöglichen es uns, unser bisheriges Verhältnis zu Integration-Tests, als Teil des Entwicklungsprozesses, grundlegend zu hinterfragen.
+Dank Docker haben wir die Möglichkeit unsere komplette Test-Suite bestehend aus Unit-, Integration- und Acceptance-Tests, direkt aus unserem Code-Repository starten. Die dafür benötigte Infrastruktur beschreiben direkt als Code.
+
+Zu diesem Zweck werden wir uns die [Testcontainers](https://github.com/testcontainers/testcontainers-java) Java-Library anschauen.
+Diese ermöglicht es uns, die für unsere Tests benötigten Container direkt als Teil unserer JUnit-Tests zu beschreiben.
+Mithilfe von Testcontainers werden wir lernen, wie wir Integration-Tests für verschiedene Persistenztechnologien (RDBMS, NoSQL) schreiben, Datenbankmigrationen testen und die Integration mit externen REST-Services sicherstellen.
+Darüber hinaus werden wir allerdings noch einen Schritt weitergehen und komplette Acceptance-Tests für unsere Microservice-Architektur schreiben, in dem wir den speziellen Testcontainers-Support zusammen mit den Werkzeugen Docker-Compose und Selenium verwenden.
+
+Und obwohl Testcontainers eine Java-Library ist werden wir auch sehen, wie wir Anwendungen in anderen Sprachen mithilfe von Testcontainers Blackbox-Testen können.
 
 <br/>
 
