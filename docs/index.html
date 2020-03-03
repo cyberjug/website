@@ -20,8 +20,6 @@ title: Home
 
     {% assign dates = site.upcoming | sort: 'date' %}
     {% for post in dates %}
-
-    
     <article class="post-item">
       <span class="post-meta">{{ post.date | date: "%d.%m.%Y %H:%M" }} Uhr</span>
       {{ post.time}}
@@ -35,9 +33,7 @@ title: Home
     <h2>Vergangene Vorträge </h2>
     {% assign dates = site.past | sort: 'date' %}
     {% assign sorted = dates | reverse %}
-
     {% for post in sorted %}
-    
     <article class="post-item">
       <span class="post-meta">{{ post.date | date: "%d.%m.%Y %H:%M" }} Uhr</span>
       <div class="article-title"><a class="post-link"

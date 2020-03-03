@@ -271,8 +271,8 @@ hr {
   margin-top: $base-spacing * 2;
 }
 
-// This applies from 0px to 600px
-@media (max-width: 600px) {
+// This applies from 0px to 680px
+@media (max-width: 680px) {
   .date-label {
     float: left !important;
     border: 0 !important;
@@ -281,12 +281,21 @@ hr {
     margin-right: 1em;
   }
 
-  .post-item {
-    border: 1px solid lighten($terminal-amber-color, 10%);
-    padding: 0 0.5em;
-    background: $dark-gray-color;
+  .site-header {
+    border-bottom: 1px solid lighten($terminal-amber-color  , 5%);
+    margin-bottom: $small-spacing;
+    min-height: 140px;
   }
 
+  body {
+    font-size: rem(16);
+  }
+
+  .navbar li {
+    font-size: rem(12);
+    display: inline-block;
+    padding: 0;
+  }
   .article-title {
     border-bottom: none !important;
   }
