@@ -13,7 +13,7 @@ Das wurde jetzt korrigiert.
 Auf der Hauptseite finden sich daher die wichtigsten Infos: Welche Vorträge kommen und welche schon bei der CyberJUG stattfanden.
 
 Zudem gibt es zwei neue Rubriken:
-- Unter "Aktuelles" sind nun Informationen wie diese hier zu finden, welche sich um das "drumherum" der CyberJUG drehen
+- Unter "Aktuelles" sind nun Informationen wie diese hier zu finden, welche sich um das "drumherum" der CyberJUG drehen.
 - Unter "Mitmachen!" gibt es nun Informationen für Interessierte, die auch einmal bei der CyberJUG einen Vortrag halten wollen.
 
 Es gibt auch ein paar Anpassungen am Ankündigungs-Workflow: SpeakerInnen können schon einmal sehen, wie sie angekündigt werden.
