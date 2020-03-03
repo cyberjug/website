@@ -33,5 +33,3 @@ Derzeit gibt es noch keine weiteren offiziellen MitstreiterInnen, aber bereits e
 * Jens Schauder: Einer der ersten Freiwilligen für einen Vortrag und Tippgeber für JUG-Organisation
 * Gerrit Meier: Technik-Organisator und Sparing-Partner bei den ersten Website-Ideen
 * Ralf D. Müller: Unterstützer der ersten Stunde der Website inkl. hilfreicher Erweiterungen der Platzhalter-Website
-
-Es wird auf jeden Fall ein Orga-Team geben, um die CyberJUG zu einer richtigen Community-Aktion werden zu lassen!
