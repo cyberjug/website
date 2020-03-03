@@ -2,7 +2,6 @@
 layout: news
 title: "Website-Update"
 date: 2020-03-03 15:18
-comments: true
 description: "Ja, jetzt geht sie ganz gut!"
 keywords: "orga"
 ---
