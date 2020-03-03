@@ -8,7 +8,7 @@ keywords: "orga"
 
 Endlich wurde die Website aktualisiert!
 
-Es gab immer wieder Unklarheiten, welches der angezeigten Termine nun das Veranstaltungsdatum sei.
+Es gab ab und an Unklarheiten, welches der angezeigten Termine nun das Veranstaltungsdatum sei.
 Das wurde jetzt korrigiert.
 Auf der Hauptseite finden sich daher die wichtigsten Infos: Welche Vorträge kommen und welche schon bei der CyberJUG stattfanden.
 
