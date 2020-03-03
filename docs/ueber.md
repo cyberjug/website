@@ -8,7 +8,7 @@ Willkommen bei der CyberJUG &ndash; einer virtuellen Online Java User Group im d
 
 <p>
     <div align="center">
-        <img src="/assets/images/logo_16-9.gif" />
+        <img src="/assets/images/logo_16-9_retro.gif" />
     </div>
 </p>
 
