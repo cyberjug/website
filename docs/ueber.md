@@ -10,7 +10,7 @@ Wir wollen uns über Java & Co. nicht nur bei lokalen Treffen austauschen.
 
 Vielmehr möchten wir mit diesem Online-Meetup auch Menschen erreichen, die es nicht zu den JUGs schaffen.
 
-Daher organisieren wir hier zur familienfreundlichen Uhrzeit jeweils 1-2 mal im Monat ein Online-Treffen.
+Daher organisieren wir hier zur familienfreundlichen Uhrzeit möglichst regelmäßig diese Online-Treffen.
 
 ## Wer sind wir?
 

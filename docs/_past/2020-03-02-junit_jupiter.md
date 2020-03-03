@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "02.03.2020: Das Nächste Jahrhundert(Jahrzehnt) - JUnit Jupiter (aka JUnit 5) (Karl-Heinz Marbaise)"
+title: "Das Nächste Jahrhundert(Jahrzehnt) - JUnit Jupiter (aka JUnit 5) (Karl-Heinz Marbaise)"
+date: 02-03-2020 20:15
 comments: false
 description: "2. Treffen am 02.03.2020 um 20:15 Uhr"
 keywords: "jupiter, junit5"
+redirect_from: /2020/02/17/jupiter/
 ---
 
 **Wir freuen uns auf den zweiten Talk beim CyberJUG-Meetup von Karl-Heinz Marbaise!**

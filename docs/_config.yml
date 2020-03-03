@@ -4,22 +4,32 @@ title_right   : "JUG" # default: ""
 description   : "Eine Online Java User Group"
 keywords      : "CyberJUG, Java User Group, digital, cyber, java"
 url           : "https://cyberjug.de" # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "/assets/images/logo_16-9.png" # image uri like logo/cover image for site seo
+baseurl       : ""
+cover         : "/assets/images/logo_16-9.png"
+future        : true # show posts that are in the future
+
+# collections
+collections:
+  news:
+    directory: past
+    output: true
+    permalink: aktuelles/:year-:month-:day-:title/
+  upcoming:
+    directory: upcoming
+    output: true
+    permalink: vortrag/:title/
+  past:
+    directory: past
+    output: true
+    permalink: vortrag/:title/
 
 # google_analytics  : UA-XXXXX-XX
 twitter_username  : "cyberjug"
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
-postshare_enabled : false
+postshare_enabled : true
 
 # Build settings
-permalink   : /:year/:month/:day/:title/
 markdown    : kramdown
 highlighter : rouge
-
-source      : ./
-destination : ./docs
 
 # Sass configuration
 sass:
@@ -35,15 +45,29 @@ plugins:
   - bourbon
   - jekyll-paginate
   - jekyll-tidy
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
   
+feed:
+  collections:
+    - news
+    - upcoming
+    - past
+
 # set up HTML beautifier
 jekyll_tidy:
   compress_html: false
 
 # navbar pages
 navbar:
+  - slug : aktuelles
+    title: Aktuelles
   - slug : ueber
     title: Über
+  - slug: mitmachen
+    title: Mitmachen!
   - slug : kontakt
     title: Kontakt
 
