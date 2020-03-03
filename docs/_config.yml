@@ -3,7 +3,7 @@ title_left    : "Cyber"
 title_right   : "JUG" # default: ""
 description   : "Eine Online Java User Group"
 keywords      : "CyberJUG, Java User Group, digital, cyber, java"
-url           : "" # site url
+url           : "https://cyberjug.de" # site url
 baseurl       : ""
 cover         : "/assets/images/logo_16-9.png"
 future        : true # show posts that are in the future
