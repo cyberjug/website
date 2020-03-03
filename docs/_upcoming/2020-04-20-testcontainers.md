@@ -26,7 +26,7 @@ Wir werden unseren Service von anderen Microservices isolieren, dann Selenium-Br
 
 *Kevin ist Testcontainers Co-Maintainer und Testcontainers-Spock-Autor sowie verliebt in FLOSS.
 Er erhielt den Oracle Groundbreaker Ambassador Award für seine Beiträge zur Open-Source-Community.
-Er ist Software-Crafter und und Test-Fan.
+Er ist Software-Crafter und Test-Fan.
 Er spielt die elektrische Gitarre und ist Musiker in seinem zweiten Leben.
 Er gründete während seiner Universitätszeit seine eigene Firma und entwickelte mobile Anwendungen und Client-Server-Applikationen, die ihn mit Grails und dem Groovy-Ökosystem bekannt machten.
 Hier verliebte er sich wegen Spock in TDD.
