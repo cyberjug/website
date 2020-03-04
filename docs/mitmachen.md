@@ -14,3 +14,10 @@ Wenn Du noch unsicher bist, welches Thema passen würde, kannst Du auch gerne Fe
 Wenn Thema und Termin (meistens montags, 20:15 Uhr) passen, organisieren wir das Online-Treffen. Min. eine Woche vor Deinem Vortrag machen wir einen Technik-Check und zeigen Dir die Vortragsplattform. Dort kannst Du für Deinen Vortrag Slides zeigen, livecoden und/oder einfach nur vor Deiner Kamera reden. Zudem gibt hier auch diverse Interaktionsmöglichkeiten mit den Teilnehmenden (Fragen, Umfragen etc.).
 
 Gerne zeichnen wir Deinen Vortrag auf, schneiden ihn und stellen ihn nachfolgend auf [YouTube](https://www.youtube.com/channel/UC6GC-2REbNELyMDNXGCBcIA) ein (wenn Du nicht nein sagst).
+
+**Häufig gestellte Fragen**
+
+* Muss mein Talk superneu sein?
+  * Nein. Wir versuchen tendenziell ältere Talks in das Programm aufzunehmen, da wir Offline-JUGs nicht das Publikum wegnehmen möchten.
+* Muss ich etwas installieren, um die Video-Plattform nutzen zu können?
+  * Wir verwenden derzeit eine Plattform, wo Du gar nichts installieren musst. Eine gute Internetanbindung ist dafür aber notwendig.
