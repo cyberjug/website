@@ -10,19 +10,21 @@ keywords: "java"
 
 <br/>
 
-Viele Projekte sind noch auf Java 8 und doch ist Java 14 bald erhältlich! Die kleinen Releases nach 9 schufen die Illusion, dass nicht viel passiert, aber nichts könnte weiter von der Wahrheit entfernt sein &ndash; seitdem hat sich viel geändert, was das Aussehen von alltäglichem Java-Code prägt:
+Viele Projekte sind noch auf Java 8, dabei ist Java 14 schon raus! Die kleinen Releases nach 9 haben den Eindruck vermittelt, dass sich nicht viel getan hat, aber nichts könnte weiter von der Wahrheit entfernt sein &ndash; es gab jede Menge Änderungen, die das Aussehen von alltäglichem Java-Code prägen:
 
 - neue Sprachfunktionen wie  records, switch expressions, var und text blocks
 - neue APIs wie stack walking und der reactive HTTP/2 client
 - Ergänzungen zu bestehenden APIs, wie `Stream` und `Optional`
 
-In diesem Vortrag nehmen wir eine einfache Java-8-Codebasis, aktualisieren sie auf 14 und passen sie an die neuen Sprachfunktionen und APIs an. Du wirst überrascht sein, wie sehr sich der Code ändert!
+In diesem Vortrag nehmen wir eine einfache Java-8-Codebasis, aktualisieren sie auf 14 und setzen die neuen Sprachfunktionen und APIs ein. Du wirst überrascht sein, wie sehr sich der Code ändert!
 
 <br/>
 
 *Über Nicolai Parlog*
 
-*Nicolai ist ein dreißigjähriger Junge, der seine Leidenschaft in der Software-Entwicklung (meist Java) gefunden hat und der sowohl für seinen Lebensunterhalt als auch zum Spaß programmiert. Er bloggt auch, schreibt, newslettert, spricht, chattet, zeichnet auf, streamt, trainiert und berät darüber und organisiert eine Konferenz &ndash; nicht alles gleichzeitig, aber in produktiven Bahnen und beginnt mit hohem Durchsatz und langen Latenzen. Wenn Du das Steuer übernehmen willst, stelle ihn für interne Schulungen zu neuen Java-Funktionen, Migrationen zu Java 9+ und JUnit 5 ein. Sein Zuhause ist [codefx.org](https://codefx.org/).*
+*Nicolai (aka nipafx) ein ein Java-Enthusiast der leidenschaftlich gerne lernt und lehrt. Das macht er in Blog Posts, Artikeln, Newslettern und Büchern; in Tweets, Repos, Videos, und Streams; auf Konferenzen und bei In-House-Trainings - mehr dazu auf [nipafx.dev]. Davon abgesehen kennt man ihn für seine Frisur.*
+
+[nipafx.dev]: https://nipafx.dev
 
 <br>
 
