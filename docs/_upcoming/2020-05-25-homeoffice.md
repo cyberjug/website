@@ -4,7 +4,7 @@ title: "Funktioniert dieses HomeOffice wirklich? (Jochen Mader, Johannes Unterst
 date: 25-05-2020 20:15
 description: "Treffen am 25.05.2020 um 20:15 Uhr"
 keywords: "home-office"
-published: false
+published: true
 ---
 
 <b>{{ page.description }}</b>
