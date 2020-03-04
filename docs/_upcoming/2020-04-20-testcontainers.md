@@ -8,7 +8,7 @@ keywords: "testcontainers"
 
 <b>{{ page.description }}</b>
 
-<br/>
+### Beschreibung
 
 Integration-Tests sind für viele ein notwendiges Übel.
 Manuelle Installation und Konfiguration der lokalen Testumgebung oder eine Testinfrastruktur, die sich mehrere Entwickler und Teams teilen müssen sorgen dafür, dass viele Entwickler versuchen auf aufwändige Integration-Tests zu verzichten.
@@ -24,9 +24,9 @@ Darüber hinaus werden wir allerdings noch einen Schritt weitergehen und komplet
 
 Und obwohl Testcontainers eine Java-Library ist werden wir auch sehen, wie wir Anwendungen in anderen Sprachen mithilfe von Testcontainers Blackbox-Testen können.
 
-<br/>
+### Über den Speaker
 
-*Über Kevin Wittek*
+**Kevin Wittek** <a href="https://twitter.com/kiview"><i class="fa fa-twitter"></i></a>
 
 *Kevin ist Testcontainers Co-Maintainer und Testcontainers-Spock-Autor sowie verliebt in FLOSS.
 Er erhielt den Oracle Groundbreaker Ambassador Award für seine Beiträge zur Open-Source-Community.
@@ -36,9 +36,7 @@ Er gründete während seiner Universitätszeit seine eigene Firma und entwickelt
 Hier verliebte er sich wegen Spock in TDD.
 Nachdem er viele Jahre als Ingenieur in der Industrie gearbeitet hat, promoviert Kevin jetzt am Institut für Internetsicherheit und leitet ein Forschungsteam im Bereich "Blockchain-Technologie".*
 
-<br>
-
-**Anmeldung**
+### Anmeldung
 
 Wir verwenden die Online-Konferenzlösung [BigMarker](https://www.bigmarker.com/), die uns freundlicher Weise von [Neo4j](https://neo4j.com/) zur Verfügung gestellt wird.
 
