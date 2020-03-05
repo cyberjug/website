@@ -4,7 +4,7 @@ title: "Das eierlegende Truffleschwein (Lars Hupel)"
 date: 23-03-2020 20:15
 description: "Treffen am 23.03.2020 um 20:15 Uhr"
 keywords: "Truffle, GraalVM"
-published: false
+published: true
 ---
 
 <b>{{ page.description }}</b>
