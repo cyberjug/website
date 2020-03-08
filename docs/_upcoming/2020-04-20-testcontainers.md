@@ -42,4 +42,6 @@ Wir verwenden die Online-Konferenzlösung [BigMarker](https://www.bigmarker.com/
 
 <div id="bigmarker-conference-widget-container927ac5581175"></div><script src="https://www.bigmarker.com/widget/register_widget.js?club=neo4j&conference=927ac5581175&widget_type=form_register&series_register=&upcoming_sub_title=Anmeldung&live_sub_title=Der%20Vortrag%20l%C3%A4uft!&rec_sub_title=Hier%20ist%20der%20Vortrag!&upcoming_button_text=Anmelden&live_button_text=Anmelden%20und%20teilnehmen&rec_button_text=Aufnahme%20ansehen&link_to_channel=false&background_color=ffffff&btext_color=2d374d&link_color=FFBF00&ltext_color=2d374d&cid=08ef4185cc3f" type="text/javascript"></script>
 
+<br/>
+
 Evtl. kurzfristige Änderungsmitteilungen gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
