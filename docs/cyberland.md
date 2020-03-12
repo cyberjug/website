@@ -6,7 +6,7 @@ permalink: /cyberland/
 
 <p>
     <div align="center">
-        <img src="/assets/images/cyberland_small.jpg" />
+        <img src="/assets/images/cyberland_sterne.png" />
     </div>
 </p>
 
