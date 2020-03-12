@@ -42,7 +42,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 ### Noch aktueller:
 
 * Neuigkeiten werden auf Twitter verkündet: [https://twitter.com/cyberjug](https://twitter.com/cyberjug)  
-* Diskussionen rund um die Orga finden in Slack statt: [https://slackin-jvm-german.herokuapp.com](https://slackin-jvm-german.herokuapp.com), Channel #javaland
+* Diskussionen rund um die Orga finden in Slack statt: [https://slackin-jvm-german.herokuapp.com](https://slackin-jvm-german.herokuapp.com), Channel #cyberland
 * Änderungsvorschläge für diese Website gerne über GitHub: [https://github.com/cyberjug/website](https://github.com/cyberjug/website)
 
 ### Disclaimer
