@@ -22,9 +22,9 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Aktuelles
 
-* 11.03.2020 14:45 Uhr: Warten auf Rückmeldung der angeschriebenen SpeakerInnen. Danach wird die Online-Konferenz in BigMarker angelegt.
-
 * 11.03.2020 17:00 Uhr: Test von BigMarker und Entwicklung eines groben Plans der Durchführung.
+
+* 11.03.2020 14:45 Uhr: Warten auf Rückmeldung der angeschriebenen SpeakerInnen. Danach wird die Online-Konferenz in BigMarker angelegt.
 
 * 11.03.2020 14:44: Erste SpeakerInnen über E-Mail angefragt
 
