@@ -4,6 +4,12 @@ title: Cyberland
 permalink: /cyberland/
 ---
 
+<p>
+    <div align="center">
+        <img src="/assets/images/cyberland_small.jpg" />
+    </div>
+</p>
+
 <br/>
 <blink>Save the date: Dienstag, 17.03.2020</blink>
 <br/>
