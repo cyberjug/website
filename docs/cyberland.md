@@ -28,6 +28,8 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Aktuelles
 
+* 12.03.2020 15:30 Uhr: Technische Umsetzung der Online-Konferenz hat begonnen.
+
 * 12.03.2020 9:20 Uhr: Hendrik Ebbers hat einen [Blog-Post](https://guigarage.com/2020/03/12/cyberland.html) über die Cyberland geschrieben.
 
 * 11.03.2020 17:00 Uhr: Test von BigMarker und Entwicklung eines groben Plans der Durchführung.
@@ -49,7 +51,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Noch aktueller:
 
-* Neuigkeiten werden auf Twitter verkündet: [https://twitter.com/cyberjug](https://twitter.com/cyberjug)  
+* Neuigkeiten werden auf Twitter verkündet: [CyberJUG](https://twitter.com/cyberjug) und/oder [Hendrik Ebbers](https://twitter.com/hendrikEbbers)
 * Diskussionen rund um die Orga finden in Slack statt: [https://slackin-jvm-german.herokuapp.com](https://slackin-jvm-german.herokuapp.com), Channel #cyberland
 
 
