@@ -42,7 +42,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 * 11.03.2020 10:00 Uhr: Es ist nun klar, dass die JavaLand nicht durchgeführt wird.
 
-* 10.03.2020 17:00 Uhr: Erste Gespräche mit Mitgliedern des JavaLand-Programmkomitees und der CyberJUG über die Machbarkeit einer kurzfristig organisierten Online-Konferenz (Arbeitstitel: Cyberland).
+* 10.03.2020 17:00 Uhr: Erste Gespräche mit Mitgliedern von JUGs und der CyberJUG über die Machbarkeit einer kurzfristig organisierten Online-Konferenz (Arbeitstitel: Cyberland).
 
 * 10.03.2020 13:16 Uhr: Erste Ideen eines Versuchs, in der Woche vom 16.03.20 - 20.03.20 eine Remote-Veranstaltung rund um Themen aus dem Land von Java auf die Beine stellen zu wollen.
 
