@@ -28,6 +28,8 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Aktuelles
 
+* 12.03.2020 23:50 Uhr: Die Konfernzseite steht. Noch ein letztes Review morgen früh und dann gehen wir online! Jetzt erstmal schlafen!
+
 * 12.03.2020 15:30 Uhr: Technische Umsetzung der Online-Konferenz hat begonnen.
 
 * 12.03.2020 9:20 Uhr: Hendrik Ebbers hat einen [Blog-Post](https://guigarage.com/2020/03/12/cyberland.html) über die Cyberland geschrieben.
