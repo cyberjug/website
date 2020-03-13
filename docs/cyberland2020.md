@@ -73,7 +73,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 - Verabschiedung (Cyberland-Orga)
 
 <br/>
-<small class="post-meta">Stand 12.03.20 17:00 Uhr</small>
+<small class="post-meta">Stand 13.03.20 14:00 Uhr</small>
 <br/>
 <br/>
 
