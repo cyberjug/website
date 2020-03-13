@@ -28,6 +28,10 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Fahrplan
 
+- Achtung: Der Zeitplan ist bisher noch vorläufig!
+- Attention: The timetable is still preliminary! 
+- To the speakers: You'll receive a presenter invitation per e-mail if your time slot is clear.
+
 <span class="post-meta">9:00 - 10:00 Uhr</span><br/>
 - Begrüßung / Keynote (Cyberland-Orga / Carola Lilienthal)
 
