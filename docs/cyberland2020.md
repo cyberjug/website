@@ -2,7 +2,7 @@
 layout: page
 title: Cyberland 2020
 description: Eine Info-Seite für die Online-Konferenz zu Themen rund um Java
-cover: https://cyberjug.de/assets/images/cyberland_sterne.png
+cover: /assets/images/cyberland_sterne.png
 permalink: /cyberland2020/
 redirect_from: /cyberland/
 ---
