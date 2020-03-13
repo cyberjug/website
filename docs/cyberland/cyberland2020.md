@@ -19,6 +19,8 @@ redirect_from: /cyberland/
 <blink>Save the date: Dienstag, 17.03.2020</blink>
 <br/>
 
+-&gt; [Infos für Teilnehmer](./teilnehmendeninfos)
+
 ### Um was geht es?
 
 Am Dienstag, 17.03.2020,  wird eine Remote-Veranstaltung rund um aktuelle Themen aus dem Land von Java durchgeführt.
