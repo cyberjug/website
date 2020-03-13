@@ -51,7 +51,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 <span class="post-meta">13:00 - 13:45 Uhr</span><br/>
 - Todesursache: Hibernate (Thorben Janssen)
-- Spezifikationstesten mit Spock vs. Mutationstesten (Johannes Dienst, Ralf D. Müller)
+- Spock vs Supermutanten: Spezifikationstesten trifft Mutationstesten (Johannes Dienst, Ralf D. Müller)
 
 <span class="post-meta">14:00 - 14:45 Uhr</span><br/>
 - Principles of Continuous Delivery and DevOps (Bert Jan Schrijver)
