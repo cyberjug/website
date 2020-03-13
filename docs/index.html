@@ -13,7 +13,7 @@ title: Home
 
   <div class="container">
    
-      <a href="./cyberland" style="color: #00FF00;"><u>~~~ SPECIAL: Auf geht es zur Cyberland!~~~</u></a>
+      <marquee><a href="./cyberland" style="color: #00FF00;"><u>~~~ SPECIAL: Auf geht es zur CyberLand 2020!~~~</u></a></marquee>
 
   </div>
 </section>
@@ -24,7 +24,7 @@ title: Home
     <h2>Anstehende Vorträge </h2>
     
     {% if site.upcoming.size == 0 %}
-    - Derzeit befinden sich 3 Vorträge in Abstimmung. -
+    - Derzeit sind leider keine Vorträge eingeplant. -
     {% endif %}
 
     {% assign dates = site.upcoming | sort: 'date' %}
