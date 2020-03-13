@@ -17,6 +17,9 @@ Slack: <https://slackin-jvm-german.herokuapp.com>, Channel #cyberland
 
 ## Fragen und Antworten
 
+F: Wie kann ich mich anmelden?  
+A: Der Anmelde-Button wird am Montag aktiviert. Dann ist die Anmeldung mit Name und E-Mail-Adresse möglich.
+
 F: Wie komme ich in die Talks?  
 A: Auf die Bilder der SpeakerInnen klicken
 
