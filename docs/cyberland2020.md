@@ -109,7 +109,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Noch aktueller:
 
-* Neuigkeiten werden auf Twitter verkündet: [CyberJUG](https://twitter.com/cyberjug) und/oder [Hendrik Ebbers](https://twitter.com/hendrikEbbers)
+* Neuigkeiten werden auf Twitter verkündet: [CyberLandConf](https://twitter.com/cyberlandconf) und [CyberJUG](https://twitter.com/cyberjug)
 * Diskussionen rund um die Orga finden in Slack statt: [https://slackin-jvm-german.herokuapp.com](https://slackin-jvm-german.herokuapp.com), Channel #cyberland
 
 
