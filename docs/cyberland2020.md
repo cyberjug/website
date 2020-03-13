@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Cyberland 2020
+title: CyberLand 2020
 description: Eine Info-Seite für die Online-Konferenz zu Themen rund um Java
 cover: /assets/images/cyberland_sterne.png
 permalink: /cyberland2020/
 redirect_from: /cyberland/
 ---
+
+**Welcome to the CyberLand!**
 
 <p>
     <div align="center">
@@ -35,7 +37,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 - To the speakers: You'll receive a presenter invitation per e-mail if your time slot is clear.
 
 <span class="post-meta">9:00 - 10:00 Uhr</span><br/>
-- Begrüßung / Keynote (Cyberland-Orga / Carola Lilienthal)
+- Begrüßung / Keynote (CyberLand-Orga / Carola Lilienthal)
 
 <span class="post-meta">10:00 - 10:45 Uhr</span><br/>
 - Hybride Architekturen: Die Post-Microservice-Realität (Eberhard Wolff)  
@@ -70,7 +72,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 - API-Kompatibilität durch Consumer-Driven Contracts und CI/CD (Arne Limburg)
 
 <span class="post-meta">18:00</span><br/>
-- Verabschiedung (Cyberland-Orga)
+- Verabschiedung (CyberLand-Orga)
 
 <br/>
 <small class="post-meta">Stand 13.03.20 14:00 Uhr</small>
@@ -86,7 +88,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 * 12.03.2020 15:30 Uhr: Technische Umsetzung der Online-Konferenz hat begonnen.
 
-* 12.03.2020 9:20 Uhr: Hendrik Ebbers hat einen [Blog-Post](https://guigarage.com/2020/03/12/cyberland.html) über die Cyberland geschrieben.
+* 12.03.2020 9:20 Uhr: Hendrik Ebbers hat einen [Blog-Post](https://guigarage.com/2020/03/12/cyberland.html) über die CyberLand geschrieben.
 
 * 11.03.2020 17:00 Uhr: Test von BigMarker und Entwicklung eines groben Plans der Durchführung.
 
@@ -94,13 +96,13 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 * 11.03.2020 14:44: Erste SpeakerInnen über E-Mail angefragt
 
-* 11.03.2020 13:31 Uhr: Cyberland-Logo erstellt.
+* 11.03.2020 13:31 Uhr: CyberLand-Logo erstellt.
 
-* 11.03.2020 13:30 Uhr: Absprache, dass die Cyberland mit der Online-Videoplattform BigMarker durchgeführt wird. Geplant sind erst einmal 2 Streams mit ca. 18 Vorträgen. Ausbau auf weitere Streams denkbar.
+* 11.03.2020 13:30 Uhr: Absprache, dass die CyberLand mit der Online-Videoplattform BigMarker durchgeführt wird. Geplant sind erst einmal 2 Streams mit ca. 18 Vorträgen. Ausbau auf weitere Streams denkbar.
 
 * 11.03.2020 10:00 Uhr: Es ist nun klar, dass die JavaLand nicht durchgeführt wird.
 
-* 10.03.2020 17:00 Uhr: Erste Gespräche mit Mitgliedern von JUGs und der CyberJUG über die Machbarkeit einer kurzfristig organisierten Online-Konferenz (Arbeitstitel: Cyberland).
+* 10.03.2020 17:00 Uhr: Erste Gespräche mit Mitgliedern von JUGs und der CyberJUG über die Machbarkeit einer kurzfristig organisierten Online-Konferenz (Arbeitstitel: CyberLand).
 
 * 10.03.2020 13:16 Uhr: Erste Ideen eines Versuchs, in der Woche vom 16.03.20 - 20.03.20 eine Remote-Veranstaltung rund um Themen aus dem Land von Java auf die Beine stellen zu wollen.
 
@@ -113,4 +115,4 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Disclaimer
 
-Dies ist lediglich eine privat angelegte Info-Seite rund um die Aktivitäten des Cyberlands.
+Dies ist lediglich eine privat angelegte Info-Seite rund um die Aktivitäten des CyberLands.
