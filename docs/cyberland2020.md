@@ -4,6 +4,17 @@ title: Cyberland 2020
 permalink: /cyberland2020/
 redirect_from: /cyberland/
 ---
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Info-Seite zur Cyberland 2020" />
+<meta property="og:description" content="Eine Info-Seite für die Online-Konferenz zu Themen rund um Java" />
+<meta property="og:url" content="https://cyberjug.de/cyberland2020/" />
+<meta property="og:site_name" content="cyberjug.de/cyberland2020/" />
+<meta property="og:image" content="https://cyberjug.de/assets/images/cyberland_sterne.png" />
+<meta property="og:image:secure_url" content="https://cyberjug.de/assets/images/cyberland_sterne.png" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="542" />
+<meta property="og:image:alt" content="Logo der Cyberland 2020" />
 
 <p>
     <div align="center">
