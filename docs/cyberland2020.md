@@ -51,7 +51,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 <span class="post-meta">13:00 - 13:45 Uhr</span><br/>
 - Todesursache: Hibernate (Thorben Janssen)
-- Doku-Microsites mit jBake (Ralf Müller)
+- Spezifikationstesten mit Spock vs. Mutationstesten (Johannes Dienst, Ralf D. Müller)
 
 <span class="post-meta">14:00 - 14:45 Uhr</span><br/>
 - Principles of Continuous Delivery and DevOps (Bert Jan Schrijver)
@@ -62,7 +62,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 - Mögen die Tests mit dir sein (Jochen Mader)
 
 <span class="post-meta">16:00 - 16:45 Uhr</span><br/>
-- Spezifikationstesten mit Spock vs. Mutationstesten (Johannes Dienst)
+- Asciidoctor Deep Dive (Alexander Schwartz)
 - Kommunikation für Softwareentwickler und alle anderen (Jens Schauder)
 
 <span class="post-meta">17:00 - 17:45 Uhr</span><br/>
