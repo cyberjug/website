@@ -80,6 +80,8 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Aktuelles
 
+* 13.03.2020 12:18 Uhr: Letzte rechtliche Dinge sind geklärt worden. Kleinere Anpassungen sind noch notwendig an der Landing Page.
+
 * 12.03.2020 23:50 Uhr: Die Konfernzseite steht. Noch ein letztes Review morgen früh und dann gehen wir online! Jetzt erstmal schlafen!
 
 * 12.03.2020 15:30 Uhr: Technische Umsetzung der Online-Konferenz hat begonnen.
