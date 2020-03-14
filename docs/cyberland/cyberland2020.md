@@ -35,51 +35,14 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Fahrplan
 
-<span class="post-meta">9:00 - 10:00 Uhr</span><br/>
-- Begrüßung / Keynote (CyberLand-Orga / Carola Lilienthal)
-
-<span class="post-meta">10:00 - 10:45 Uhr</span><br/>
-- Hybride Architekturen: Die Post-Microservice-Realität (Eberhard Wolff)  
-- Not Dead yet – Java on Desktop (Gerrit Grunwald)
-
-<span class="post-meta">11:00 - 11:45 Uhr</span><br/>
-- Java After Eight (Nicolai Parlog)
-- Implementierung der DDD-Patterns mit Spring (Michael Plöd)
-
-<span class="post-meta">12:00 - 12:45 Uhr</span><br/>
-- 5 Dinge für erfolgreiche Remote-Arbeit (Sven Peters)
-- Testcontainers: a Year-in-review (Kevin Wittek)
-
-<span class="post-meta">13:00 - 13:45 Uhr</span><br/>
-- Todesursache: Hibernate (Thorben Janssen)
-- Spock vs Supermutanten: Spezifikationstesten trifft Mutationstesten (Johannes Dienst, Ralf D. Müller)
-
-<span class="post-meta">14:00 - 14:45 Uhr</span><br/>
-- Principles of Continuous Delivery and DevOps (Bert Jan Schrijver)
-- Knative introduction for the curious Java Developer (Roland Huss)
-
-<span class="post-meta">15:00 - 15:45 Uhr</span><br/>
-- Service Mesh patterns (Alex Soto)
-- Mögen die Tests mit dir sein (Jochen Mader)
-
-<span class="post-meta">16:00 - 16:45 Uhr</span><br/>
-- Asciidoctor Deep Dive (Alexander Schwartz)
-- Kommunikation für Softwareentwickler und alle anderen (Jens Schauder)
-
-<span class="post-meta">17:00 - 17:45 Uhr</span><br/>
-- Developing w/ Kubernetes (Ray Tsang)
-- API-Kompatibilität durch Consumer-Driven Contracts und CI/CD (Arne Limburg)
-
-<span class="post-meta">18:00</span><br/>
-- Verabschiedung (CyberLand-Orga)
-
-<br/>
-<small class="post-meta">Stand 13.03.20 14:00 Uhr</small>
-<br/>
-<br/>
+Siehe <https://www.bigmarker.com/series/cyberland/series_summit> 
 
 
 ### Aktuelles
+
+* 14.03.2020 22:56 Uhr: Die Mails an die Speaker sind raus.
+
+* 14.03.2020 13:25 Uhr: Der Anmeldestart für die CyberLand ist für Montag, 16.03.20, um 14:00 Uhr geplant.
 
 * 13.03.2020 23:55 Uhr: Die Speaker-Mails und letzte Feinschliffe sind erfolgt. Wir warten aus das "Go", um die Speaker zu informieren.
 
