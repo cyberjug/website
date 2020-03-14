@@ -16,7 +16,7 @@ redirect_from: /cyberland/
 </p>
 
 <br/>
-<blink>Save the date: Dienstag, 17.03.2020, 9:00 Uhr</blink>
+<blink>Start: Dienstag, 17.03.2020, 9:00 Uhr</blink>
 <br/>
 
 -&gt; [README für Teilnehmende](./teilnehmendeninfos)  
@@ -24,13 +24,13 @@ redirect_from: /cyberland/
 
 ### Um was geht es?
 
-Am Dienstag, 17.03.2020,  wird eine Remote-Veranstaltung rund um aktuelle Themen aus dem Land von Java durchgeführt.
-Organisiert wird dies von OrganisatorInnen einiger deutschen JUGs und der CyberJUG.
+Am Dienstag, 17.03.2020,  wird eine kostenfreie Remote-Veranstaltung rund um aktuelle Themen aus dem Land von Java durchgeführt.
+Organisiert wird dies von der iJUG e. V. (Interessenverbund der Java-User-Groups e.V.), unterstützt von der Java-Community und der CyberJUG.
 
-Geplant sind zwei Remote-Streams mit einer Landing Page, Zeitplan und der Unterstützung von Chats, Fragen und Antworten und Interviews.
+Geplant sind zwei Tracks mit je 8 Vorträgen mit Interaktionsmöglichkeiten über Chat, Fragen und Umfragen.
 Es wird eine Mischung aus mehreren Vorträgen geben, um den verschiedenen Themenbereichen gerecht zu werden. 
 
-Die gesamte Veranstaltung wird von der deutschen JUG-Community organisiert und ist KEINE offizielle Veranstaltung der JavaLand GmbH.
+Die gesamte Veranstaltung wird von der iJUG e. V. organisiert und ist KEINE offizielle Veranstaltung der JavaLand GmbH.
 Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein JavaLand-Ticket benötigt.
 
 ### Fahrplan
