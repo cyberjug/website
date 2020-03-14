@@ -31,7 +31,7 @@ This link will allow you to come into the Webinar room 1 hour before your sessio
 Your host will be in this room 10 - 15 minutes before your session starts.
 They will check the equipment again and explain the features of the Webinar online platform to you.
 
-If you want to get to know the online conferencing software in more detail, Markus Harrer (one of the hosts) can do it with you on Monday, March 16th. Please choose a time slot here: <https://freebusy.io/cyberjug@markusharrer.de/15min>
+If you want to get to know the online conferencing software in more detail, Markus Harrer (one of the hosts) can show it to you on Monday, March 16th. Please choose a time slot here: <https://freebusy.io/cyberjug@markusharrer.de/15min>
 
 Please check also the system requirements:
 * Browser: Chrome or Firefox (Up to date)
