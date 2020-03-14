@@ -21,10 +21,10 @@ F: Wie kann ich mich anmelden?
 A: Der Anmelde-Button wird am Montag gegen Mittag aktiviert. Dann ist die Anmeldung mit Name und E-Mail-Adresse möglich.
 
 F: Wie komme ich in die Talks?  
-A: Auf die Bilder der SpeakerInnen klicken
+A: Auf die Bilder der SpeakerInnen klicken.
 
 F: Wie komme ich von der Session-Seite zurück zur Übersicht?  
-A: Auf das Logo / Text oben Links klicken
+A: Auf das Logo / Text oben Links klicken.
 
 
 ### Disclaimer
