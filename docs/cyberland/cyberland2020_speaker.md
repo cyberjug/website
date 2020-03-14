@@ -43,17 +43,16 @@ Please check also the system requirements:
 ## Q&A
 
 Q: How do I setup the online conferencing software?  
-A: You'll get a link from our online conferencing software that contains this information. There is no special setup or installation needed.
+A: There is no special setup or installation needed. You can share your screen, upload slides, show your webcam picture and much more.
 
 Q: How long is my talk?  
 A: It should be 40 minutes long plus 5 minutes Q&A. Be aware that there is a hard time limit. This means that the Webinar will kick out all participiants after 45 minutes.
-
 
 Q: How can I interact with the audience?  
 A: There is a chat, an Q&A as well as a poll. The host of you session will go through theses features with you before your session starts. You can also prepare polls that the hosts will hack into the conferencing tool.
 
 Q: Do I need to read the chat box continually?  
-A: No, the host will do that. 
+A: No, the host will do that and put questions in the chat into the Q&A section.
 
 Q: Should I answer questions in the middle or at the end of the talk?  
 A: As you like. He/she will also put questions to the Q&A-feature where you can have a look when you like.  
