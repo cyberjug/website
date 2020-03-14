@@ -17,7 +17,7 @@ Webinar test time planner: <https://freebusy.io/cyberjug@markusharrer.de/15min>
 ## Q&A
 
 Q: How do I setup the online conferencing software?  
-A: You'll get a link from our online conferencing software that contains this information. There is no setup needed.
+A: You'll get a link from our online conferencing software that contains this information. There is no special setup or installation needed.
 
 Q: How long is my talk?  
 A: It should be 40 minutes long plus 5 minutes Q&A. Be aware that there is a hard time limit. This means that the Webinar will kick out all participiants after 45 minutes.
