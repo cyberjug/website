@@ -46,7 +46,7 @@ Q: How do I setup the online conferencing software?
 A: There is no special setup or installation needed. You can share your screen, upload slides, show your webcam picture and much more.
 
 Q: How do I enter the Webinar room?  
-A: Markus wanted to play around with his screencast software, so he produced a short video on YoutTube:
+A: Markus wanted to play around with his screencast software, so he produced a short video:
 
 <p>
 <div align="center" border="1">
