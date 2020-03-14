@@ -30,3 +30,5 @@ A: Auf das Logo / Text oben Links klicken
 ### Disclaimer
 
 Dies ist lediglich eine privat angelegte Info-Seite rund um die Aktivitäten des CyberLands.
+
+&lt;- [back](./)

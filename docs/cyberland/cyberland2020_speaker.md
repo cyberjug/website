@@ -63,3 +63,4 @@ A: This as still to be defined. At mininum, we'll refer to Slack (see top), wher
 Q: Do you publish my recording on YouTube?  
 A: Yes, we'll publish the recording IF you allow us to. The channel will be either the CyberJUG channel or the iJUG channel (yet to be defined)  
 
+&lt;- [back](./)
