@@ -40,7 +40,7 @@ Please check also the system requirements:
 * Video Apps: None open (e.g., Skype)
 
 
-## Q&A
+## Frequently Asked Questions
 
 Q: How do I setup the online conferencing software?  
 A: There is no special setup or installation needed. You can share your screen, upload slides, show your webcam picture and much more.
@@ -55,7 +55,7 @@ Q: Do I need to read the chat box continually?
 A: No, the host will do that and put questions in the chat into the Q&A section.
 
 Q: Should I answer questions in the middle or at the end of the talk?  
-A: As you like. He/she will also put questions to the Q&A-feature where you can have a look when you like.  
+A: As you wish. Your host will put questions from the audience continually to Q&A where you can have a look when you like.  
 
 Q: How can I interact with the audience after the talk?  
 A: This as still to be defined. At mininum, we'll refer to Slack (see top), where you can meet participiants (if they want).
