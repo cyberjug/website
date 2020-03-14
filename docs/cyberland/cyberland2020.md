@@ -16,10 +16,10 @@ redirect_from: /cyberland/
 </p>
 
 <br/>
-<blink>Save the date: Dienstag, 17.03.2020</blink>
+<blink>Save the date: Dienstag, 17.03.2020, 9:00 Uhr</blink>
 <br/>
 
--&gt; [README für Teilnehmer](./teilnehmendeninfos)  
+-&gt; [README für Teilnehmende](./teilnehmendeninfos)  
 -&gt; [README for Speakers](./speakerinfo)
 
 ### Um was geht es?
