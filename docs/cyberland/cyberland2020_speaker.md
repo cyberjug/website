@@ -45,6 +45,17 @@ Please check also the system requirements:
 Q: How do I setup the online conferencing software?  
 A: There is no special setup or installation needed. You can share your screen, upload slides, show your webcam picture and much more.
 
+Q: How do I enter the Webinar room?  
+A: Markus wanted to play around with his screencast software, so he produced a short video on YoutTube:
+
+<p>
+<div align="center" border="1">
+{% include youtubePlayer.html id="6_FwH9ejEJ8" %}
+</div>
+</p>
+
+
+
 Q: How long is my talk?  
 A: It should be 40 minutes long plus 5 minutes Q&A. Be aware that there is a hard time limit. This means that the Webinar will kick out all participiants after 45 minutes.
 
