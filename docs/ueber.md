@@ -16,7 +16,7 @@ Wir wollen uns über Java & Co. nicht nur bei lokalen Treffen austauschen.
 Vielmehr möchten wir mit diesem Online-Meetup auch Menschen erreichen, die es nicht zu den JUGs schaffen.
 Daher organisieren wir hier zur familienfreundlichen Uhrzeit möglichst regelmäßig diese Online-Treffen.
 
-## Wer sind wir?
+## Wer sind "wir"?
 
 #### Markus Harrer
 
@@ -27,7 +27,7 @@ Er hat aber Lust auf den Austausch und hat daher den Versuch gestartet, eine deu
 
 #### Und wer noch?
 
-Derzeit gibt es noch keine weiteren offiziellen MitstreiterInnen, aber bereits einige nette OrganisatorInnen, die Markus unterstützen:
+Derzeit gibt es noch keine weiteren offiziellen MitstreiterInnen, aber bereits einige nette Leute, die Markus unterstützen:
 
 * Michael Simons: Hat zur falschen Zeit zur CyberJUG-Idee nicht nein gesagt
 * Jens Schauder: Einer der ersten Freiwilligen für einen Vortrag und Tippgeber für JUG-Organisation
