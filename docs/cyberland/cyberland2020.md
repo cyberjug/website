@@ -19,7 +19,8 @@ redirect_from: /cyberland/
 <blink>Save the date: Dienstag, 17.03.2020</blink>
 <br/>
 
--&gt; [Infos für Teilnehmer](./teilnehmendeninfos)
+-&gt; [README für Teilnehmer](./teilnehmendeninfos)  
+-&gt; [README for Speakers](./speakerinfo)
 
 ### Um was geht es?
 
@@ -33,10 +34,6 @@ Die gesamte Veranstaltung wird von der deutschen JUG-Community organisiert und i
 Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein JavaLand-Ticket benötigt.
 
 ### Fahrplan
-
-- Achtung: Der Zeitplan ist bisher noch vorläufig!
-- Attention: The timetable is still preliminary! 
-- To the speakers: You'll receive a presenter invitation per e-mail if your time slot is clear.
 
 <span class="post-meta">9:00 - 10:00 Uhr</span><br/>
 - Begrüßung / Keynote (CyberLand-Orga / Carola Lilienthal)
@@ -83,6 +80,8 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 
 ### Aktuelles
+
+* 13.03.2020 23:55 Uhr: Die Speaker-Mails und letzte Feinschliffe sind erfolgt. Wir warten aus das "Go", um die Speaker zu informieren.
 
 * 13.03.2020 12:18 Uhr: Letzte rechtliche Dinge sind geklärt worden. Kleinere Anpassungen sind noch notwendig an der Landing Page.
 
