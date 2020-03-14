@@ -14,6 +14,32 @@ Slack (e.g. to contact the org team): <https://slackin-jvm-german.herokuapp.com>
 Webinar test time planner: <https://freebusy.io/cyberjug@markusharrer.de/15min>  
 
 
+## Welcome Speaker!
+
+*The information in this section is identical to your presenter invitation e-mail*
+
+You are a presenter at our upcoming CyberLand 2020 online conference. Thanks for taking part!
+
+* You can find the schedule of our conference here: <https://www.bigmarker.com/series/cyberland/series_summit>
+
+* Here you can test if the system requirements are met in general: <https://www.bigmarker.com/system_check>
+
+* Here you can test a Webinar room (the room is time-restricted): <https://www.bigmarker.com/test_room>
+
+You'll also receive an presenter invitation via e-mail with a link that let's you enter your Webinar room.
+This link will allow you to come into the Webinar room 1 hour before your session.
+Your host will be in this room 10 - 15 minutes before your session starts.
+They will check the equipment again and explain the features of the Webinar online platform to you.
+
+If you want to get to know the online conferencing software in more detail, Markus Harrer (one of the hosts) can do it with you on Monday, March 16th. Please choose a time slot here: <https://freebusy.io/cyberjug@markusharrer.de/15min>
+
+Please check also the system requirements:
+* Browser: Chrome or Firefox (Up to date)
+* Internet: Consistent, high-speed, 10Mbps+
+* Firewalls: None that block webinars
+* Video Apps: None open (e.g., Skype)
+
+
 ## Q&A
 
 Q: How do I setup the online conferencing software?  
