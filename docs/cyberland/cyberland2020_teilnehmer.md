@@ -27,7 +27,7 @@ F: Wie komme ich von der Session-Seite zurück zur Übersicht?
 A: Auf das Logo / Text oben Links klicken.
 
 F: Werden die Talks aufgezeichnet?  
-A: Im Normalfall ja. Aber es kann auch vorkommen, dass es das ein oder andere Mal nicht klappt. Wir planen, die Aufnahmen auf dem YouTube-Kanale der iJUG oder CyberJUG zu veröffentlichen.
+A: Im Normalfall ja. Aber es kann auch vorkommen, dass es das ein oder andere Mal nicht klappt. Wir planen, die Aufnahmen auf dem YouTube-Kanal der iJUG oder CyberJUG zu veröffentlichen.
 
 ### Disclaimer
 
