@@ -30,7 +30,7 @@ F: Wie komme ich von der Session-Seite zurück zur Übersicht?
 A: Auf das Logo / Text oben links klicken.
 
 F: Werden die Talks aufgezeichnet?  
-A: Im Normalfall ja. Aufgenommen werden jedoch nur die Sprecher und das Hauptbild. Teilnehmende werden nicht mit aufgezeichnet. Es kann zudem vorkommen, dass es das ein oder andere Mal nicht klappt. Wir planen, die Aufnahmen auf dem YouTube-Kanal der iJUG oder CyberJUG zu veröffentlichen.
+A: Im Normalfall ja. Aufgenommen werden jedoch nur die Sprechenden und das Hauptbild. Teilnehmende werden nicht mit aufgezeichnet. Es kann zudem vorkommen, dass es das ein oder andere Mal nicht klappt. Wir planen, die Aufnahmen auf dem YouTube-Kanal der iJUG oder CyberJUG zu veröffentlichen.
 
 ### Disclaimer
 
