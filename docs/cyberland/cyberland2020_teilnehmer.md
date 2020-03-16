@@ -32,7 +32,7 @@ A: Auf das Logo / Text oben links klicken.
 F: Werden die Talks aufgezeichnet?  
 A: Im Normalfall ja. Aufgenommen werden jedoch nur die Sprechenden und das Hauptbild. Teilnehmende werden nicht mit aufgezeichnet. Es kann zudem vorkommen, dass es das ein oder andere Mal nicht klappt. Wir planen, die Aufnahmen auf dem YouTube-Kanal der iJUG oder CyberJUG zu veröffentlichen.
 
-F: Warum nimmt ihr nicht YouTube / Twitch etc.?  
+F: Warum nehmt ihr nicht YouTube / Twitch etc.?  
 Q: Wir schätzen die Zeit der Sprechenden: Daher ist uns eine No-Setup-Plattform sehr wichtig, damit sich Sprechende nicht mit der Technik herumschlagen müssen. Wir schätzen die Informationsbedarfe der Teilnehmenden: Daher sollen diese direkt mit den Sprechenden interagieren können. Wir schätzen die Arbeit der Organisierenden: Daher sollen sich diese nicht um langweilige Orga-Dinge kümmern müssen.
 
 
