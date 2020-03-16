@@ -19,8 +19,8 @@ redirect_from: /cyberland/
 <blink>Start: Dienstag, 17.03.2020, 9:00 Uhr</blink>
 <br/>
 
--&gt; [README für Teilnehmende](./teilnehmendeninfos)  
--&gt; [README for Speakers](./speakerinfo)
+[-&gt; README für Teilnehmende](./teilnehmendeninfos)  
+[-&gt; README for Speakers](./speakerinfo)
 
 ### Um was geht es?
 
@@ -35,7 +35,7 @@ Daher kann jeder kostenlos an der Veranstaltung teilnehmen und es wird kein Java
 
 ### Fahrplan
 
-Siehe <https://www.bigmarker.com/series/cyberland/series_summit> 
+Siehe [Konferenzseite](https://www.bigmarker.com/series/cyberland/series_summit)  
 
 
 ### Aktuelles
