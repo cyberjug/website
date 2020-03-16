@@ -57,7 +57,7 @@ A: Markus wanted to play around with his screencast software, so he produced a s
 
 
 Q: How long is my talk?  
-A: It should be 40 minutes long plus 5 minutes Q&A. Be aware that there is a hard time limit. This means that the Webinar will kick out all participiants after 45 minutes.
+A: It should be 40 - 45 minutes (incl. some important questions from the audience answered). We'll stop the recording after you've finished your presentation. After this, you have plenty of time to interact with the audience. A host will gather questions from the chat into a separate Q&A / "Fragen" section for you, the audience can upvote those questions and you can answer them if you want to. The Webinar room closes after 90 minutes.
 
 Q: How can I interact with the audience?  
 A: There is a chat, an Q&A as well as a poll. The host of you session will go through theses features with you before your session starts. You can also prepare polls that the hosts will hack into the conferencing tool.
@@ -68,8 +68,8 @@ A: No, the host will do that and put questions in the chat into the Q&A section.
 Q: Should I answer questions in the middle or at the end of the talk?  
 A: As you wish. Your host will put questions from the audience continually to Q&A where you can have a look when you like.  
 
-Q: How can I interact with the audience after the talk?  
-A: This as still to be defined. At mininum, we'll refer to Slack (see top), where you can meet participiants (if they want).
+Q: How can I interact with the audience after the talk and the discussion?  
+A: Yes, we use Slack for this.
 
 Q: Do you publish my recording on YouTube?  
 A: Yes, we'll publish the recording IF you allow us to. The channel will be either the CyberJUG channel or the iJUG channel (yet to be defined)  
