@@ -40,6 +40,8 @@ Siehe <https://www.bigmarker.com/series/cyberland/series_summit>
 
 ### Aktuelles
 
+* 15.03.2020 11:36 Uhr: Unsere Konferenz hat es auf [Heise.de](https://www.heise.de/developer/meldung/Statt-JavaLand-Community-richtet-Cyberland-aus-4681642.html) geschafft.
+
 * 14.03.2020 22:56 Uhr: Die Mails an die Speaker sind raus.
 
 * 14.03.2020 13:25 Uhr: Der Anmeldestart für die CyberLand ist für Montag, 16.03.20, um 14:00 Uhr geplant.
