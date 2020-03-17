@@ -219,4 +219,4 @@ Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zu
 
 Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
 
-Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der Deutschen Gesellschaft für Datenschutz, in Kooperation mit den Medienrecht Anwälten WILDE BEUGER SOLMECKE | Rechtsanwälte erstellt.
+Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der Deutschen Gesellschaft für Datenschutz, in Kooperation mit den Medienrecht Anwälten WILDE BEUGER SOLMECKE \| Rechtsanwälte erstellt.
