@@ -38,10 +38,10 @@ A: Wir wollen mit dieser virtuellen Konferenz eine bessere Kommunikation zwische
 F: Was passiert, wenn es mehr als 1000 Teilnehmende gibt?  
 A: First come, first serve: Die Webinar-Räume werden mit den Teilnehmenden gefüllt, die als erstes eintreten. Ein Webinar-Raum reicht für 1000 Teilnehmende. Das bedeutet, dass bei zwei parallel stattfindenden Sessions max. 2000 Teilnehmende dabei sein können. Wir denken, das wir diese Grenze nicht überschreiten, da im Vorfeld viele gesagt haben, dass sie nur sehr sporadisch an den Sessions teilnehmen werden.
 
-F: Warum nehmt ihr nicht YouTube / Twitch etc.?  
-A: Wir schätzen die Zeit der Sprechenden: Daher ist uns eine No-Setup-Plattform sehr wichtig, damit sich Sprechende nicht mit der Technik herumschlagen müssen. Wir schätzen die Informationsbedarfe der Teilnehmenden: Daher sollen diese direkt mit den Sprechenden interagieren können. Wir schätzen die Arbeit der Organisierenden: Daher sollen sich diese nicht um langweilige Orga-Dinge kümmern müssen.
+F: Warum wird nicht nicht YouTube / Twitch etc. verwendet?  
+A: Wir schätzen die Zeit der Sprechenden: Daher ist uns eine [No-Setup-Plattform](https://www.bigmarker.com/) sehr wichtig, damit sich Sprechende nicht mit der Technik herumschlagen müssen. Wir schätzen die Informationsbedarfe der Teilnehmenden: Daher sollen diese direkt mit den Sprechenden interagieren können. Wir schätzen die Arbeit der Organisierenden: Daher sollen sich diese nicht um langweilige Orga-Dinge kümmern müssen.
 
-F: Wie könnt ihr kontaktiert werden?  
+F: Wie können die Organisatoren kontaktiert werden?  
 A: Über Slack (siehe [oben](#wichtige-informationsquellen)), [Twitter](https://twitter.com/cyberlandconf) oder per [E-Mail](mailto:cyberland@ijug.eu).
 
 
