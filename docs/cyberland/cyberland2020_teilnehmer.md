@@ -23,6 +23,9 @@ A: Der Anmelde-Button wird am Montag gegen 14:00 Uhr auf der Konferenzseite akti
 F: Wie komme ich in die Talks?  
 A: Auf die Bilder der SpeakerInnen klicken.
 
+F: Wann komme ich in die Talks?  
+A: Die Warteräume der Sessions werden 15 Minuten (30 Minunten bei der Keynote) vor dem Start geöffnet.
+
 F: Wie komme ich von der Session-Seite zurück zur Übersicht?  
 A: Auf das Logo / Text oben links klicken.
 
@@ -38,9 +41,13 @@ A: First come, first serve: Die Webinar-Räume werden mit den Teilnehmenden gef�
 F: Warum nehmt ihr nicht YouTube / Twitch etc.?  
 A: Wir schätzen die Zeit der Sprechenden: Daher ist uns eine No-Setup-Plattform sehr wichtig, damit sich Sprechende nicht mit der Technik herumschlagen müssen. Wir schätzen die Informationsbedarfe der Teilnehmenden: Daher sollen diese direkt mit den Sprechenden interagieren können. Wir schätzen die Arbeit der Organisierenden: Daher sollen sich diese nicht um langweilige Orga-Dinge kümmern müssen.
 
+F: Wie könnt ihr kontaktiert werden?  
+A: Über Slack (siehe [oben](#wichtige-informationsquellen)), [Twitter](https://twitter.com/cyberlandconf) oder per [E-Mail](mailto:cyberland@ijug.eu).
+
+
 
 ### Disclaimer
 
 Dies ist lediglich eine privat angelegte Info-Seite rund um die Aktivitäten des CyberLands.
 
-&lt;- [back](./)
+[&lt;- zurück](./)

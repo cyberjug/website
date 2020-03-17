@@ -74,4 +74,4 @@ A: Yes, we use Slack for this.
 Q: Do you publish my recording on YouTube?  
 A: Yes, we'll publish the recording IF you allow us to. The channel will be either the CyberJUG channel or the iJUG channel (yet to be defined)  
 
-&lt;- [back](./)
+[&lt;- back](./)
