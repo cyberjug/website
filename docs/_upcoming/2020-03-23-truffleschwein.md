@@ -28,7 +28,7 @@ Außerdem programmiert und redet er gern über Haskell, Prolog und Rust.*
 
 ### Anmeldung
 
-Wir verwenden die Online-Konferenzlösung [zoom](https://www.zoom.us/), die uns freundlicher Weise von [INNOQ](https://innoq.com/) gesponsort wird. Hier geht es zur Registrierung:
+Wir verwenden die Online-Webinarlösung [zoom](https://www.zoom.us/), die uns freundlicher Weise von [INNOQ](https://innoq.com/) gesponsort wird. Hier geht es zur Registrierung:
 
 <https://zoom.us/webinar/register/WN_tuJJbAr2Td-EM9NgwW04Jw>
 
