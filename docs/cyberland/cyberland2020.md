@@ -40,6 +40,10 @@ Siehe [Konferenzseite](https://www.bigmarker.com/series/cyberland/series_summit)
 
 ### Aktuelles
 
+* 16.03.2020 18:30 Uhr: Die CyberLand 2020 geht zu Ende. Mit rund 1900 Registrierungen, bis zu 880 aktive Teilnehmer und jede Menge spannender Vorträge geht die Konferenz erfolgreich zu Ende.
+
+* 16.03.2020 9:00 Uhr: Mit über 1200 Registrierungen fängt die Keynote mit rund 700 gleichzeitig Teilnehmenden statt.
+
 * 15.03.2020 11:36 Uhr: Unsere Konferenz hat es auf [Heise.de](https://www.heise.de/developer/meldung/Statt-JavaLand-Community-richtet-Cyberland-aus-4681642.html) geschafft.
 
 * 14.03.2020 22:56 Uhr: Die Mails an die Speaker sind raus.
