@@ -220,3 +220,10 @@ Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zu
 Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
 
 Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der Deutschen Gesellschaft für Datenschutz, in Kooperation mit den Medienrecht Anwälten WILDE BEUGER SOLMECKE \| Rechtsanwälte erstellt.
+
+
+## Ergänzung zur Datenschutzerklärung
+
+### Zoom
+
+Die CyberJUG nutzt für die Online-Meetups Software des Anbieters Zoom. Die Rechtsgrundlage für die Datenverarbeitung über "Zoom" ist Art. 6 Abs. 1 lit. b) DSGVO. "Zoom" erbringt für uns vertragliche Leistungen. Einen Auftragsdatenverarbeitungsvertrag mit Zoom Video Communications, Inc. wurde abgeschlossen. Die Zoom Video Communication, Inc. hat sich unter dem Privacy Shield zertifizieren lassen: <https://www.zoom.us/de-de/privacy.html>.
