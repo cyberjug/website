@@ -32,4 +32,6 @@ Wir verwenden die Online-Webinarlösung [zoom](https://www.zoom.us/), die uns fr
 
 <https://zoom.us/webinar/register/WN_tuJJbAr2Td-EM9NgwW04Jw>
 
+Kleiner Tipp: Statt der Installation des Zoom-Clients ist auch der direkte Zugang über den Browser möglich ([Hinweisbild](/assets/images/zoom_direct_access.jpg))
+
 Evtl. kurzfristige Änderungsmitteilungen gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
