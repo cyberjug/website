@@ -26,12 +26,11 @@ In diesem Vortrag geht es um die Chancen der neuen polyglotten Programmierung un
 Er spricht oft auf Konferenzen und ist im Open-Source-Umfeld in Scala unterwegs.
 Außerdem programmiert und redet er gern über Haskell, Prolog und Rust.*
 
-### Anmeldung
+### Aufnahme
 
-Wir verwenden die Online-Webinarlösung [zoom](https://www.zoom.us/), die uns freundlicher Weise von [INNOQ](https://innoq.com/) gesponsort wird. Hier geht es zur Registrierung:
+*Die Aufnahme wird hier in Kürze erscheinen.*
 
-<https://zoom.us/webinar/register/WN_tuJJbAr2Td-EM9NgwW04Jw>
 
-Kleiner Tipp: Statt der Installation des Zoom-Clients ist auch der direkte Zugang über den Browser möglich ([Hinweisbild](/assets/images/zoom_direct_access.jpg))
+### Dank an den Sponsor
 
-Evtl. kurzfristige Änderungsmitteilungen gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
+Wir verwendeten die Online-Webinarlösung Zoom, für die uns  freundlicher Weise ein Account von [INNOQ](https://innoq.com/) gesponsert wurde.

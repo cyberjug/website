@@ -38,7 +38,7 @@ Nachdem er viele Jahre als Ingenieur in der Industrie gearbeitet hat, promoviert
 
 ### Anmeldung
 
-Wir verwenden die Online-Webinarlösung [zoom](https://www.zoom.us/), die uns freundlicher Weise von [INNOQ](https://innoq.com/) gesponsort wird. Hier geht es zur Registrierung:
+Wir verwenden die Online-Webinarlösung [zoom](https://www.zoom.us/), die uns freundlicher Weise von [INNOQ](https://innoq.com/) gesponsert wird. Hier geht es zur Registrierung:
 
 <https://zoom.us/webinar/register/WN_M2cNymA8QUe_O2W4ggPU4Q>
 
