@@ -40,3 +40,7 @@ Nachdem er viele Jahre als Ingenieur in der Industrie gearbeitet hat, promoviert
 
 
 Hier ist die Rohfassung der Session: [https://www.youtube.com/watch?v=W8vpCrOUtHo](https://www.youtube.com/watch?v=W8vpCrOUtHo&feature=youtu.be&t=100) (Startzeitpunkt = Beginn)
+
+### Dank an den Sponsor
+
+Wir verwendeten die Online-Webinarlösung Zoom, für die uns  freundlicher Weise ein Account von [INNOQ](https://innoq.com/) gesponsert wurde.
