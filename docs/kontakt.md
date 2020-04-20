@@ -16,6 +16,7 @@ robots: noindex
 
 Anschrift: CyberJUG, Markus Harrer, Edisonweg 21, 91154 Roth  
 E-Mail: <a href="mailto:kontakt@cyberjug.de">kontakt@cyberjug.de</a>  
+Fax: 09171/8573176  
 Vertreter und inhaltlich Verantwortlicher gem. § 55 RStV: Markus Harrer
 
 Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
