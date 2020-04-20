@@ -38,8 +38,5 @@ Nachdem er viele Jahre als Ingenieur in der Industrie gearbeitet hat, promoviert
 
 ### Aufzeichnung
 
-<p>
-    <div align="center">
-        Hier ist die Rohfassung der Session: {% include youtubePlayer.html id="LWnazFQOlCU&t=93" %}
-    </div>
-</p>
+
+Hier ist die Rohfassung der Session: [https://www.youtube.com/watch?v=W8vpCrOUtHo](https://www.youtube.com/watch?v=W8vpCrOUtHo&feature=youtu.be&t=100) (Startzeitpunkt = Beginn)
