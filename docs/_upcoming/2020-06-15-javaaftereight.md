@@ -31,8 +31,6 @@ In diesem Vortrag nehmen wir eine einfache Java-8-Codebasis, aktualisieren sie a
 
 ### Anmeldung
 
-Wir verwenden die Online-Konferenzlösung [BigMarker](https://www.bigmarker.com/), die uns freundlicher Weise von [Neo4j](https://neo4j.com/) zur Verfügung gestellt wird.
-
 *Die Anmeldung wird hier ca. zwei Wochen vor dem Event freigeschalten.*
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
