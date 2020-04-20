@@ -12,15 +12,6 @@ title: Home
 <section class="post-list">
 
   <div class="container">
-   
-    <a href="./cyberland" style="color: #00FF00;">-&gt; SPECIAL: Auf geht es zur CyberLand 2020!</a>
-
-  </div>
-</section>
-
-<section class="post-list">
-
-  <div class="container">
     <h2>Anstehende Vorträge </h2>
     
     {% if site.upcoming.size == 0 %}
@@ -49,6 +40,11 @@ title: Home
           href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
     </article>
     {% endfor %}
+  </div>
+
+  <div class="container">
+    <h2>Vergangene Konferenzen </h2>
+    <a href="./cyberland" style="color: #00FF00;">Das war die CyberLand 2020!</a>
   </div>
 
 </section>
