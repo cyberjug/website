@@ -36,14 +36,10 @@ Er gründete während seiner Universitätszeit seine eigene Firma und entwickelt
 Hier verliebte er sich wegen Spock in TDD.
 Nachdem er viele Jahre als Ingenieur in der Industrie gearbeitet hat, promoviert Kevin jetzt am Institut für Internetsicherheit und leitet ein Forschungsteam im Bereich "Blockchain-Technologie".*
 
-### Anmeldung
+### Aufzeichnung
 
-Wir verwenden die Online-Webinarlösung [zoom](https://www.zoom.us/), die uns freundlicher Weise von [INNOQ](https://innoq.com/) gesponsert wird. Hier geht es zur Registrierung:
-
-<https://zoom.us/webinar/register/WN_M2cNymA8QUe_O2W4ggPU4Q>
-
-Kleiner Tipp: Statt der Installation des Zoom-Clients ist auch der direkte Zugang über den Browser möglich ([Hinweisbild](/assets/images/zoom_direct_access.jpg))
-
-NEU! WIR SIND HEUTE AUCH AUF YOUTUBE! <https://www.youtube.com/watch?v=W8vpCrOUtHo>
-
-Evtl. kurzfristige Änderungsmitteilungen gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
+<p>
+    <div align="center">
+        Hier ist die Rohfassung der Session: {% include youtubePlayer.html id="LWnazFQOlCU&t=93" %}
+    </div>
+</p>
