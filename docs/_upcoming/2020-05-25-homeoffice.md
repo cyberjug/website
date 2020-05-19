@@ -39,6 +39,10 @@ Aktuell arbeiter er an Neo4j Cloud um es Usern zu ermöglichen Graph-Datenbanken
 
 ### Anmeldung
 
-*Die Anmeldung wird hier ca. zwei Wochen vor dem Event freigeschalten.*
+Wir treffen uns im Cyberspace! Hierzu verwenden wir [Mozilla Hubs](https://labs.mozilla.org/projects/hubs/).
+
+Den Link zum virtuellen Meeting-Raum veröffentlichen wir kurz vor der Veranstaltung.
+
+Du kannst vorab schon einmal testen, ob Mozilla Hubs bei Dir funktioniert (geht mit PC/Notebook/Tablet/Smartphone): <https://hubs.mozilla.com/YKGEHTu/cyberjug-testroom/>
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
