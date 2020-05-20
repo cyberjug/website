@@ -46,3 +46,34 @@ Den Link zum virtuellen Meeting-Raum veröffentlichen wir kurz vor der Veranstal
 Du kannst vorab schon einmal testen, ob Mozilla Hubs bei Dir funktioniert (geht mit PC/Notebook/Tablet/Smartphone): <https://hubs.mozilla.com/YKGEHTu/cyberjug-testroom/>
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
+
+### Beschreibung Mozilla Hubs
+
+#### Was ist Hubs?
+
+Hubs ist ein System, um private, virtuelle Instant-Meeting-Räume zu erstellen.
+Diese können mit jedem Browser (mobil / Desktop) oder mit einem VR-Headset-System betreten werden.
+Hubs simuliert dabei echte Räume.
+Z. B. wird das Audio der Teilnehmenden räumlich simuliert, was bedeutet, dass Gespräche zwischen zwei Teilnehmenden umso leiser werden desto weiter entfernt diese zueinander stehen.
+Zudem können digitale Inhalte wie Bilder, Videos oder auch der eigene Screen direkt in Hubs geshared werden.
+
+#### Wie kann ich teilnehmen?
+
+Vor dem Start des Events gibt es einen Link zum richtigen Meeting-Raum.
+
+Du kannst auf zwei unterschiedliche Arten teilnehmen:
+
+**Passive Teilnahme**  
+Du klickst auf den Meeting-Raum-Link.
+Geschafft, Du bist in der Lobby und als passiver Teilnehmender mit dabei!
+Hier kannst Du sehen, was im Raum los ist und an alle anderen Chat-Nachrichten schreiben.
+
+
+**Aktive Teilnahme**  
+Du klickst auf den Meeting-Raum-Link und bist in der sog. Lobby (= passive Teilnahme).
+Klicke danach unten auf "Enter Room", "Enter on Screen" und "Enter now" (bitte schalte Dein Mikrofon zuerst einmal aus)
+Um eine bessere Interaktion zu ermöglichen, ändere anschließend Deinen Avatar-Namen rechts oben durch einen klick auf das Personensymbol und anschließend den Stift.
+Verwende auf dem Desktop die WASD-Tasten und Maus/Touchpad zum Bewegen.
+Interagiere mit der Leertaste.
+Auf mobilen Endgeräten kannst Du Dich mit der Zoom-Geste im Raum fortbewegen. Interagiere mit Zwei-Finger-Tap (mit zwei Fingern auf den Bildschirm tippen).
+
