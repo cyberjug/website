@@ -43,9 +43,11 @@ Aktuell arbeiter er an Neo4j Cloud um es Usern zu ermöglichen Graph-Datenbanken
 
 ### Anmeldung
 
-Wir treffen uns im Cyberspace! Hierzu verwenden wir [Mozilla Hubs](https://labs.mozilla.org/projects/hubs/).
+Wir treffen uns im Cyberspace! Hierzu verwenden wir Mozilla Hubs.
 
-Hier ist der Link zu unserem Meetup-Raum: <http://bit.ly/cj-homeoffice>
+Hier ist der Link zu unserem Meetup-Raum: <http://bit.ly/cj-homeoffice> .
+
+Du kannst mit einem Browser (Google Chrome geht z. B. super) auf Deinem PC oder auf Deinem Smartphone teilnehmen.
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
 
