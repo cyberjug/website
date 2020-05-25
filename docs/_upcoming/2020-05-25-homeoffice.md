@@ -61,14 +61,16 @@ Zudem können digitale Inhalte wie Bilder, Videos oder auch der eigene Screen di
 
 #### Wie kann ich teilnehmen?
 
-Vor dem Start des Events gibt es einen Link zum richtigen Meetup-Raum.
-
 Du kannst auf zwei unterschiedliche Arten teilnehmen:
 
 **Passive Teilnahme**  
 Du klickst auf den Meetup-Raum-Link.
 Geschafft, Du bist in der Lobby und als passiver Teilnehmender mit dabei!
 Hier kannst Du sehen, was im Raum los ist und an alle anderen Chat-Nachrichten schreiben.
+
+Tipps:
+- Drücke auf das "X" links oben der Lobby-Eingabe-Box, um besser sehen zu können.
+- Drücke auf "Hide All" rechts unten, um die UI auszublenden (mit ESC blendest Du die UI wieder ein)
 
 
 **Aktive Teilnahme**  
