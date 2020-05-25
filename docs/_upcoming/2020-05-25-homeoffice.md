@@ -10,7 +10,7 @@ published: true
 <b>{{ page.description }}</b>
 
 <p>
-[&gt;&gt;&gt; DIREKT ZUM VIRTUELLEM MEETUP-RAUM &lt;&lt;&lt;](http://bit.ly/cj-homeoffice) 
+<a href="http://bit.ly/cj-homeoffice">&gt;&gt;&gt; DIREKT ZUM VIRTUELLEM MEETUP-RAUM &lt;&lt;&lt;</a>
 </p>
 
 *Wir haben auch Talks angekündigt, die sich ein bisschen außerhalb des Java-Universums befinden. Nun ist es endlich soweit mit dem Vortrag von Jochen und Johannes!*
