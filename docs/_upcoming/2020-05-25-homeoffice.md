@@ -63,7 +63,7 @@ Zudem können digitale Inhalte wie Bilder, Videos oder auch der eigene Screen di
 
 Du kannst auf zwei unterschiedliche Arten teilnehmen:
 
-**Passive Teilnahme**  
+**Passive Teilnahme (= Lobby)**  
 Du klickst auf den Meetup-Raum-Link.
 Geschafft, Du bist in der Lobby und als passiver Teilnehmender mit dabei!
 Hier kannst Du sehen, was im Raum los ist und an alle anderen Chat-Nachrichten schreiben.
@@ -71,15 +71,17 @@ Hier kannst Du sehen, was im Raum los ist und an alle anderen Chat-Nachrichten s
 Tipps:
 - Drücke auf das "X" links oben der Lobby-Eingabe-Box, um besser sehen zu können.
 - Drücke auf "Hide All" rechts unten, um die UI auszublenden (mit ESC blendest Du die UI wieder ein)
+- Drücke auf das Personensymbol rechts oben, um mit dem Stift Deinen Namen anzupassen
 
-
-**Aktive Teilnahme**  
+**Aktive Teilnahme (= im Raum)**  
 Du klickst auf den Meetup-Raum-Link und bist in der sog. Lobby (= passive Teilnahme).
 Klicke danach unten auf "Enter Room", "Enter on Screen" und "Enter now" (bitte schalte Dein Mikrofon zuerst einmal aus)
-Um eine bessere Interaktion zu ermöglichen, ändere anschließend Deinen Avatar-Namen rechts oben durch einen klick auf das Personensymbol und anschließend den Stift.
-Verwende auf dem Desktop die WASD-Tasten und Maus/Touchpad zum Bewegen.
-Interagiere mit der Leertaste.
-Auf mobilen Endgeräten kannst Du Dich mit der Zoom-Geste im Raum fortbewegen. Interagiere mit Zwei-Finger-Tap (mit zwei Fingern auf den Bildschirm tippen).
+
+Tipps:
+- Um eine bessere Interaktion zu ermöglichen, ändere anschließend Deinen Avatar-Namen rechts oben durch einen klick auf das Personensymbol und anschließend den Stift.
+- Verwende auf dem Desktop die WASD-Tasten und Maus/Touchpad zum Bewegen
+- Interagiere mit der Leertaste mit dem Raum/Objekten/Emoticons
+- Auf mobilen Endgeräten kannst Du Dich mit der Zoom-Geste im Raum fortbewegen. Interagiere mit Zwei-Finger-Tap (mit zwei Fingern auf den Bildschirm tippen)
 
 #### Wie kann ich testen?
 
