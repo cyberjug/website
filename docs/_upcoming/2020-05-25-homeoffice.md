@@ -9,6 +9,8 @@ published: true
 
 <b>{{ page.description }}</b>
 
+Direkt zum [virtuellen Meetup-Raum](<<http://bit.ly/cj-homeoffice>>).
+
 *Wir haben auch Talks angekündigt, die sich ein bisschen außerhalb des Java-Universums befinden. Nun ist es endlich soweit mit dem Vortrag von Jochen und Johannes!*
 
 ### Beschreibung
@@ -41,7 +43,7 @@ Aktuell arbeiter er an Neo4j Cloud um es Usern zu ermöglichen Graph-Datenbanken
 
 Wir treffen uns im Cyberspace! Hierzu verwenden wir [Mozilla Hubs](https://labs.mozilla.org/projects/hubs/).
 
-Hier ist der Link zu unserem Meeting-Raum: <<http://bit.ly/cj-homeoffice>>
+Hier ist der Link zu unserem Meetup-Raum: <<http://bit.ly/cj-homeoffice>>
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
 
@@ -57,18 +59,18 @@ Zudem können digitale Inhalte wie Bilder, Videos oder auch der eigene Screen di
 
 #### Wie kann ich teilnehmen?
 
-Vor dem Start des Events gibt es einen Link zum richtigen Meeting-Raum.
+Vor dem Start des Events gibt es einen Link zum richtigen Meetup-Raum.
 
 Du kannst auf zwei unterschiedliche Arten teilnehmen:
 
 **Passive Teilnahme**  
-Du klickst auf den Meeting-Raum-Link.
+Du klickst auf den Meetup-Raum-Link.
 Geschafft, Du bist in der Lobby und als passiver Teilnehmender mit dabei!
 Hier kannst Du sehen, was im Raum los ist und an alle anderen Chat-Nachrichten schreiben.
 
 
 **Aktive Teilnahme**  
-Du klickst auf den Meeting-Raum-Link und bist in der sog. Lobby (= passive Teilnahme).
+Du klickst auf den Meetup-Raum-Link und bist in der sog. Lobby (= passive Teilnahme).
 Klicke danach unten auf "Enter Room", "Enter on Screen" und "Enter now" (bitte schalte Dein Mikrofon zuerst einmal aus)
 Um eine bessere Interaktion zu ermöglichen, ändere anschließend Deinen Avatar-Namen rechts oben durch einen klick auf das Personensymbol und anschließend den Stift.
 Verwende auf dem Desktop die WASD-Tasten und Maus/Touchpad zum Bewegen.
