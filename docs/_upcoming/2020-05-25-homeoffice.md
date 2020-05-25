@@ -41,9 +41,7 @@ Aktuell arbeiter er an Neo4j Cloud um es Usern zu ermöglichen Graph-Datenbanken
 
 Wir treffen uns im Cyberspace! Hierzu verwenden wir [Mozilla Hubs](https://labs.mozilla.org/projects/hubs/).
 
-Den Link zum virtuellen Meeting-Raum veröffentlichen wir kurz vor der Veranstaltung.
-
-Du kannst vorab schon einmal testen, ob Mozilla Hubs bei Dir funktioniert (geht mit PC/Notebook/Tablet/Smartphone): <https://hubs.mozilla.com/YKGEHTu/cyberjug-testroom/>
+Hier ist der Link zu unserem Meeting-Raum: <<http://bit.ly/cj-homeoffice>>
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
 
@@ -76,4 +74,9 @@ Um eine bessere Interaktion zu ermöglichen, ändere anschließend Deinen Avatar
 Verwende auf dem Desktop die WASD-Tasten und Maus/Touchpad zum Bewegen.
 Interagiere mit der Leertaste.
 Auf mobilen Endgeräten kannst Du Dich mit der Zoom-Geste im Raum fortbewegen. Interagiere mit Zwei-Finger-Tap (mit zwei Fingern auf den Bildschirm tippen).
+
+#### Wie kann ich testen?
+
+Hier kannst Du vorab schon einmal testen, ob Mozilla Hubs bei Dir funktioniert (geht mit PC/Notebook/Tablet/Smartphone): <https://hubs.mozilla.com/YKGEHTu/cyberjug-testroom/>
+
 
