@@ -41,13 +41,12 @@ Neben meiner Haupttätigkeit bei Instana bin ich auf Konferenzen als Speaker anz
 Er hat die letzten Jahre damit verbracht verteilte und containerisierte Systeme mit dem Fokus auf Orchestrierungs-Frameworks zu bauen.
 Aktuell arbeiter er an Neo4j Cloud um es Usern zu ermöglichen Graph-Datenbanken zu geniessen ohne sich um den Betrieb Gedanken zu machen.*
 
-### Anmeldung
+### Aufnahme
 
-Wir treffen uns im Cyberspace! Hierzu verwenden wir Mozilla Hubs.
+Wir trafen uns im Cyberspace! Hierzu verwendeten wir Mozilla Hubs.
 
-Hier ist der Link zu unserem Meetup-Raum: <http://bit.ly/cj-homeoffice> .
-
-Du kannst mit einem Browser (Google Chrome geht z. B. super) auf Deinem PC oder auf Deinem Smartphone teilnehmen.
+Leider ging eine parallele Aufnahme des virtuellen Meetings schief.
+Wir arbeiten an einer besseren Lösung beim nächsten Mal!
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
 
