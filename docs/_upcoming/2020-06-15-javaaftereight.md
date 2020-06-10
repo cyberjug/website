@@ -29,8 +29,12 @@ In diesem Vortrag nehmen wir eine einfache Java-8-Codebasis, aktualisieren sie a
 [nipafx.dev]: https://nipafx.dev
 
 
-### Anmeldung
+### Veranstaltungsort
 
-*Die Anmeldung wird hier ca. zwei Wochen vor dem Event freigeschalten.*
+Wir treffen uns im Twitch-Kanal von Nicolai!
+
+<https://www.twitch.tv/nipafx>
+
+Hinweis: Um den Chat nutzen zu können, musst Du Dich für Twitch anmelden. Alternativ dazu nehmen wir Diskussionsbeiträge auch gerne per Twitter oder Slack entgegen.
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
