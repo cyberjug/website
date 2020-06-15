@@ -35,6 +35,6 @@ Wir treffen uns im Twitch-Kanal von Nicolai!
 
 <https://www.twitch.tv/nipafx>
 
-Hinweis: Um den Chat nutzen zu können, musst Du Dich für Twitch anmelden. Alternativ dazu nehmen wir Diskussionsbeiträge auch gerne per Twitter oder Slack entgegen.
+Hinweis: Um den Chat nutzen zu können, musst Du Dich für Twitch anmelden. Alternativ dazu nehmen wir Diskussionsbeiträge auch gerne per [Twitter](https://twitter.com/cyberjug) oder im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug entgegen.
 
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
