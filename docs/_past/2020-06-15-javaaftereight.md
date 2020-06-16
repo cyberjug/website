@@ -29,10 +29,8 @@ In diesem Vortrag nehmen wir eine einfache Java-8-Codebasis, aktualisieren sie a
 [nipafx.dev]: https://nipafx.dev
 
 
-### Veranstaltungsort
+### Aufzeichnung
 
-Wir treffen uns im Twitch-Kanal von Nicolai!
+Wir trafen uns im Twitch-Kanal von Nicolai: <https://www.twitch.tv/nipafx>
 
-<https://www.twitch.tv/nipafx>
-
-Hinweis: Um den Chat nutzen zu können, musst Du Dich für Twitch anmelden. Alternativ dazu nehmen wir Diskussionsbeiträge auch gerne per [Twitter](https://twitter.com/cyberjug) oder im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug entgegen.
+Die Aufnahme findet ihr ebenfalls dort: <https://www.twitch.tv/videos/651734776>
