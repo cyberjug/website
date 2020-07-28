@@ -38,7 +38,7 @@ Wir nutzen dieses Mal Zoom und YouTube parallel:
 
 Ihr habt die Möglichkeit, unter <https://git.io/JJEzS> vorab eure Fragen und Beiträge zum Thema beizusteuern.
 
-Während des Meetups könnt eure Fragen und Diskussionsbeiträge gerne in Zoom, auf YouTube, auf [Twitter](https://twitter.com/cyberjug) oder im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug stellen.
+Während des Meetups könnt ihr eure Fragen und Diskussionsbeiträge gerne in Zoom, auf YouTube, auf [Twitter](https://twitter.com/cyberjug) oder im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug stellen.
 
 ### Bleibe auf dem Laufenden!
 
