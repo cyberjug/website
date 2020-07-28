@@ -40,4 +40,6 @@ Ihr habt die Möglichkeit, unter <https://github.com/cyberjug/meetup/issues/10> 
 
 Während des Meetups könnt eure Fragen und Diskussionsbeiträge gerne in Zoom, auf YouTube, auf [Twitter](https://twitter.com/cyberjug) oder im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug stellen.
 
+### Bleibe auf dem Laufenden!
+
 Neuigkeiten gibt es über [Twitter](https://twitter.com/cyberjug). Aktuelles zur Organisation der CyberJUG findet sich im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug .
