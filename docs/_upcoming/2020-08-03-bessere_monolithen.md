@@ -29,10 +29,10 @@ Der Vortrag identifiziert oft beobachte Phänomene in unstrukturierten Monolithe
 
 Wir nutzen dieses Mal Zoom und YouTube parallel:
 
-- Wir treffen uns ab ca. 19:50 Uhr in Zoom zum Plausch. **Die Zoom-Meeting-URL gibt es am 3.8.20 ab 19:45 Uhr an dieser Stelle.**
+- Wir treffen uns ab ca. 19:50 Uhr in Zoom zum Plausch: <https://innoq.zoom.us/j/93864829283>
 - Ab 20:15 Uhr streamen wir auch live auf YouTube unter <https://youtu.be/bNf8xdHMOFY>.
 - Das YouTube-Live-Streaming endet nach der offiziellen Frage- und Antwort-Runde.
-- Danach gibt es in Zoom noch die Möglichkeit, weitere Fragen und tiefergehende Diskussionen anzustoßen (open end).
+- Danach gibt es in Zoom noch die Möglichkeit, weitere Fragen und tiefergehende Diskussionen anzustoßen (open end, ohne Aufnahme).
 
 **Interaktionsmöglichkeiten**  
 
