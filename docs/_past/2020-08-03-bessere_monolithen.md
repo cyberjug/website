@@ -23,22 +23,10 @@ Der Vortrag identifiziert oft beobachte Phänomene in unstrukturierten Monolithe
 *Oliver Drotbohm ist Senior Principal Software Engineer bei Pivotal. Seit über 12 Jahren widmet er sich dem Entwickeln von Java Enterprise Applikationen, Open Source Projekten und ist Mitglied der JPA Expert Group. Seine Arbeitsschwerpunkte liegen im Bereich Softwarearchitektur, Domain-Driven Design, REST, Spring und Persistenztechnologien. Er ist regelmäßiger Sprecher auf deutschen und internationalen Konferenzen sowie Autor von Fachartikeln und des ersten Spring Data Buches.*
 
 
-### Teilnahme
+### Aufnahme
 
-**Online-Meetup**  
+Die Aufzeichnung unserer Treffen findet ihr auf YouTube unter <https://youtu.be/bNf8xdHMOFY>.
 
-Wir nutzen dieses Mal Zoom und YouTube parallel:
-
-- Wir treffen uns ab ca. 19:50 Uhr in Zoom zum Plausch: <https://innoq.zoom.us/j/93864829283>
-- Ab 20:15 Uhr streamen wir auch live auf YouTube unter <https://youtu.be/bNf8xdHMOFY>.
-- Das YouTube-Live-Streaming endet nach der offiziellen Frage- und Antwort-Runde.
-- Danach gibt es in Zoom noch die Möglichkeit, weitere Fragen und tiefergehende Diskussionen anzustoßen (open end, ohne Aufnahme).
-
-**Interaktionsmöglichkeiten**  
-
-Ihr habt die Möglichkeit, unter <https://git.io/JJEzS> vorab eure Fragen und Beiträge zum Thema beizusteuern.
-
-Während des Meetups könnt ihr eure Fragen und Diskussionsbeiträge gerne in Zoom, auf YouTube, auf [Twitter](https://twitter.com/cyberjug) oder im [jvm-german Slack-Channel](https://slackin-jvm-german.herokuapp.com/) #cyberjug stellen.
 
 ### Bleibe auf dem Laufenden!
 
