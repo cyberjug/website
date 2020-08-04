@@ -25,7 +25,7 @@ Der Vortrag identifiziert oft beobachte Phänomene in unstrukturierten Monolithe
 
 ### Aufnahme
 
-Die Aufzeichnung unserer Treffen findet ihr auf YouTube unter <https://youtu.be/bNf8xdHMOFY>.
+Die Aufzeichnung unseres Treffen findet ihr auf YouTube unter <https://youtu.be/bNf8xdHMOFY>.
 
 
 ### Bleibe auf dem Laufenden!
