@@ -32,6 +32,6 @@ PS: Natürlich müsst ihr nicht unbedingt über Shortcuts reden. Auch ein völli
 ### Teilnahme
 
 Wir verwenden dieses Mal SpatialChat (am besten dazu Chrome verwenden).
-Den Link zu SpatialChat sharen wir auf meetup.com. Also Anmelden nicht vergessen! <https://www.meetup.com/de-DE/cyberjug/events/273593849/>.
+Den Link zu SpatialChat sharen wir auf meetup.com. Also Anmelden nicht vergessen! <https://www.meetup.com/de-DE/cyberjug/events/275060876>.
 
 PS: Es wird keine Aufnahme geben. Ein einmaliges Erlebnis!
