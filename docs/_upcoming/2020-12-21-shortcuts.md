@@ -13,20 +13,19 @@ keywords: "shortcuts"
 
 In diesem Treffen probieren wir etwas anderes.
 Ihr seid die Teilnehmenden und Teilgebenden!
-Es geht um den Austausch zu einem ganz Speziellen Thema.
+Es geht um den Austausch zu einem ganz speziellen Thema.
 
-Diese Mal: **Shortcuts!**
+Diese Mal: **Shortcuts**!
 
 - Welche Shortcuts in der IDE habt ihr liebgewonnen?
 - Welche Shortcuts habt ihr euch im Betriebssystem eingerichtet, um schneller arbeiten zu können?
-- Welche anderen Produktivitätssteigerer mögt ihr uns verraten?
+- Welche anderen Produktivitätssteigerer mögt ihr uns sonst noch so verraten?
 
-Wir teilen unsere "Best ofs Shortcuts" gemeinsam in diesem Meetup.
-Es wird verschiedene Grüppchen geben wo ihr völlig frei hin- und herschmöckern könnt.
+Wir teilen unsere “Best Ofs Shortcuts” gemeinsam in diesem Meetup. Es wird verschiedene Grüppchen geben wo ihr völlig frei hin- und herschmöckern könnt.
 
 Wir sind gespannt!
 
-PS: Natürlich müsst ihr nicht unbedingt zu Shortcuts reden. Auch ein völlig zwangloses Unterhalten wird ermöglicht.
+PS: Natürlich müsst ihr nicht unbedingt über Shortcuts reden. Auch ein völlig zwangloses Unterhalten ist möglich!
 
 
 
