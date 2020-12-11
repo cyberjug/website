@@ -9,6 +9,8 @@ redirect_from: /cyberland/
 
 **Welcome to the CyberLand!**
 
+Die [CyberLand](https://cyberland.ijug.eu/2020-03/) hat mittlerweile eine eigene Webseite, wo man viele Informationen (Folien, Videos) zur Veranstaltung finden kann.
+
 <p>
     <div align="center">
         <img src="/assets/images/cyberland_sterne.png" />
