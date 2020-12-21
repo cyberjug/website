@@ -37,7 +37,7 @@ Wir haben ein paar Dinge gesammelt.
 * IntelliJ Presentation Assistant: <https://plugins.jetbrains.com/plugin/7345-presentation-assistant>
 * IntelliJ Tips & Tricks by Hadi Hariri: <https://www.youtube.com/watch?v=o-T40MRwzdA>
 * YouTube-Channel von JetBrains IntelliJ: <https://www.youtube.com/channel/UC4ogdcPcIAOOMJktgBMhQnQ>
-* Plugin Key Promotor X: Learn shortcuts while you are working: <https://plugins.jetbrains.com/>plugin/9792-key-promoter-x>
+* Plugin Key Promotor X: Learn shortcuts while you are working: <https://plugins.jetbrains.com/plugin/9792-key-promoter-x>
 * Trick "Methoden komplett überall sicher entfernen":
   * Methodenrumpf leer machen
   * Methode inlinen
