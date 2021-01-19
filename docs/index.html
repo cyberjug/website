@@ -15,7 +15,7 @@ title: Home
     <h2>Anstehende Events </h2>
     
     {% if site.upcoming.size == 0 %}
-    - [Wir gönnen uns eine Pause!](./aktuelles/2021-01-19-pause/) -
+    - <a href="aktuelles/2021-01-19-pause/">Wir machen eine Pause!</a> -
     {% endif %}
 
     {% assign dates = site.upcoming | sort: 'date' %}
@@ -24,7 +24,7 @@ title: Home
       <span class="post-meta">{{ post.date | date: "%d.%m.%Y %H:%M" }} Uhr</span>
       {{ post.time}}
       <div class="article-title"><a class="post-link"
-          href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
+          <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
     </article>
     {% endfor %}
   </div>
