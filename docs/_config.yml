@@ -5,7 +5,7 @@ description   : "Eine Online Java User Group"
 keywords      : "CyberJUG, Java User Group, digital, cyber, java"
 url           : "https://cyberjug.de" # site url
 baseurl       : ""
-cover         : "/assets/images/logo_16-9.png"
+cover         : "/assets/images/logo_16-9_grey.png"
 future        : true # show posts that are in the future
 
 # collections
